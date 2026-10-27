@@ -1,0 +1,23 @@
+[project]
+name = "intelligent-information-flow"
+version = "1.0.0"
+description = "Generic AI-powered real-time CSV decision-support system"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115.0",
+  "uvicorn[standard]>=0.30.0",
+  "flask>=3.0.0",
+  "jinja2>=3.1.4",
+  "python-multipart>=0.0.9",
+  "pandas>=2.2.0",
+  "numpy>=1.26.0",
+  "scikit-learn>=1.5.0",
+  "requests>=2.31.0",
+  "pydantic[email]>=2.0.0",
+  "httpx>=0.27.0",
+  "google-genai>=1.0.0",
+  "python-dotenv>=1.2.4",
+]
+[dependency-groups]
+dev=["pytest>=8.0.0"]

@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Region,Department,Product,Customer_Type,Sales,Quantity,Unit_Price,Discount,Profit,Customer_Satisfaction,Payment_Method
+1,2025-10-15,East,Electronics,Laptop,Returning,1218.23,4,312.56,2.56,250.85,3.9,Card
+2,2025-06-22,South,Sports,Basketball,Corporate,983.93,10,125.71,21.73,136.53,4.7,Cash
+3,2025-07-05,North,Electronics,Headphones,VIP,7774.94,14,594.66,6.61,679.43,3.5,Card
+4,2025-12-10,South,Electronics,Laptop,VIP,2037.37,2,1300.34,21.66,294.65,4.7,UPI
+5,2025-06-11,South,Electronics,Monitor,Returning,2120.28,3,757.92,6.75,503.18,5.0,Bank Transfer
+6,2025-05-15,South,Clothing,Shirt,VIP,609.25,4,169.03,9.89,123.66,4.2,Bank Transfer
+7,2025-08-28,East,Sports,Basketball,Returning,626.31,3,213.62,2.27,110.22,4.4,UPI
+8,2025-09-14,North,Sports,Football,VIP,3330.81,13,263.57,2.79,490.99,4.1,Card
+9,2025-06-07,East,Sports,Football,Returning,466.62,3,162.09,4.04,87.7,4.3,Card
+10,2025-05-16,North,Electronics,Smartphone,New,9323.9,12,790.67,1.73,1951.51,4.2,Bank Transfer
+11,2025-04-23,South,Furniture,Cabinet,VIP,5252.1,7,895.88,16.25,1119.56,3.4,Cash
+12,2025-10-20,South,Electronics,Laptop,New,2247.86,15,163.35,8.26,376.31,3.5,Bank Transfer
+13,2025-06-23,West,Furniture,Bookshelf,Returning,236.24,2,132.39,10.78,48.21,4.4,Cash
+14,2025-01-26,South,Furniture,Desk,Corporate,1140.48,3,408.6,6.96,326.39,4.2,Cash
+15,2025-12-23,South,Electronics,Smartphone,Corporate,4917.69,8,784.27,21.62,1147.86,3.9,Bank Transfer
+16,2025-03-22,East,Furniture,Desk,Returning,468.82,1,542.3,13.55,61.08,3.2,Cash
+17,2025-10-17,South,Sports,Football,New,359.54,10,45.83,21.55,38.53,4.7,UPI
+18,2025-10-16,East,Clothing,Jeans,Returning,449.38,5,108.01,16.79,134.98,4.3,Cash
+19,2025-12-01,South,Electronics,Monitor,VIP,3293.64,3,1407.9,22.02,755.81,2.2,Cash
+20,2025-11-21,North,Sports,Tennis Racket,Returning,310.74,5,63.86,2.68,42.46,2.5,UPI
+21,2025-10-15,East,Sports,Basketball,New,413.84,2,261.03,20.73,53.42,2.8,Cash
+22,2025-01-21,South,Electronics,Laptop,New,7596.17,14,629.52,13.81,1162.7,4.2,UPI
+23,2025-07-31,North,Furniture,Desk,VIP,5341.51,13,525.9,21.87,1361.58,3.9,Cash
+24,2025-06-29,West,Furniture,Sofa,Returning,764.17,5,185.32,17.53,97.03,3.4,UPI
+25,2025-03-01,North,Furniture,Desk,Returning,1805.43,7,329.02,21.61,307.36,2.2,UPI
+26,2025-04-08,East,Furniture,Cabinet,New,1017.91,2,557.09,8.64,202.11,3.4,UPI
+27,2025-06-17,North,Electronics,Headphones,Returning,3273.28,6,715.19,23.72,774.23,2.8,Bank Transfer
+28,2025-06-05,South,Clothing,T-Shirt,Returning,1085.17,7,171.26,9.48,286.29,3.8,UPI
+29,2025-06-21,East,Furniture,Bookshelf,Corporate,3224.8,8,425.84,5.34,910.08,2.8,Cash
+30,2025-04-10,South,Furniture,Sofa,Returning,199.29,3,70.76,6.12,54.4,3.7,Bank Transfer
+31,2025-10-13,South,Grocery,Snacks,Returning,718.45,11,84.08,22.32,56.36,3.5,Card
+32,2025-08-07,South,Electronics,Headphones,Corporate,8071.82,11,852.96,13.97,1081.14,3.1,Bank Transfer
+33,2025-06-13,West,Furniture,Bookshelf,VIP,2842.87,13,260.15,15.94,607.9,3.7,Cash
+34,2025-07-19,South,Furniture,Desk,Corporate,2043.08,12,179.88,5.35,366.85,4.3,Cash
+35,2025-05-20,West,Sports,Basketball,New,722.74,6,133.47,9.75,176.33,4.4,Bank Transfer
+36,2025-07-21,West,Grocery,Rice,VIP,821.68,11,83.1,10.11,107.55,3.3,Cash
+37,2025-02-11,South,Electronics,Headphones,Corporate,514.31,3,189.39,9.48,59.65,4.1,Bank Transfer
+38,2025-03-20,North,Electronics,Monitor,VIP,3274.16,4,1017.2,19.53,624.7,3.3,Card
+39,2025-01-14,North,Furniture,Bookshelf,Returning,4167.92,8,644.55,19.17,955.72,4.1,UPI
+40,2025-10-17,West,Sports,Basketball,Returning,388.28,2,245.0,20.76,95.13,3.7,Cash
+41,2025-08-11,West,Clothing,T-Shirt,VIP,244.96,2,133.9,8.53,41.91,4.3,Card
+42,2025-08-26,West,Sports,Tennis Racket,Corporate,1990.43,7,333.78,14.81,360.56,2.8,Bank Transfer
+43,2025-05-04,West,Clothing,Shirt,VIP,354.23,3,129.57,8.87,95.37,3.3,Bank Transfer
+44,2025-07-08,South,Grocery,Oil,Corporate,848.45,11,86.86,11.2,69.26,3.8,Bank Transfer
+45,2025-12-20,East,Sports,Sports Shoes,Corporate,2507.82,12,229.15,8.8,393.22,3.7,Card
+46,2025-06-04,West,Furniture,Desk,VIP,5356.52,12,551.15,19.01,1588.16,2.1,Cash
+47,2025-04-05,East,Sports,Cricket Bat,New,190.12,1,230.28,17.44,38.66,3.1,Cash
+48,2025-05-08,North,Clothing,Shoes,New,782.04,7,130.56,14.43,244.18,3.9,Cash
+49,2025-11-17,South,Sports,Basketball,Corporate,2704.75,8,365.23,7.43,737.91,4.8,Card
+50,2025-05-25,South,Clothing,Shirt,Returning,417.18,3,144.72,3.91,101.78,4.5,Bank Transfer
+51,2025-05-28,East,Electronics,Smartphone,Returning,1839.21,7,278.39,5.62,193.72,2.7,Bank Transfer
+52,2025-02-16,East,Electronics,Headphones,Corporate,3553.08,5,810.65,12.34,332.84,3.1,Card
+53,2025-02-16,North,Sports,Sports Shoes,VIP,286.17,10,35.29,18.91,58.77,3.3,Bank Transfer
+54,2025-01-19,East,Clothing,Shoes,VIP,417.88,11,39.58,4.02,118.06,3.2,Bank Transfer
+55,2025-09-13,East,Electronics,Tablet,VIP,2623.01,2,1458.85,10.1,439.31,4.1,Bank Transfer
+56,2025-06-09,East,Electronics,Smartphone,Returning,6052.96,15,517.48,22.02,983.01,4.4,Cash
+57,2025-08-30,North,Sports,Basketball,Returning,4543.96,14,366.91,11.54,870.61,3.6,Card
+58,2025-09-17,South,Grocery,Oil,Corporate,387.6,4,111.01,12.71,59.19,5.0,UPI
+59,2025-10-20,East,Electronics,Tablet,Corporate,3938.3,14,325.06,13.46,546.13,4.2,Bank Transfer
+60,2025-01-19,North,Furniture,Bookshelf,VIP,4185.44,12,452.03,22.84,1246.9,4.8,Card
+61,2025-05-16,East,Sports,Sports Shoes,New,4656.63,14,341.11,2.49,1278.67,4.9,UPI
+62,2025-11-13,North,Sports,Basketball,VIP,3351.7,14,276.26,13.34,661.57,4.4,Cash
+63,2025-07-03,South,Furniture,Sofa,New,4998.0,7,881.59,19.01,690.18,3.7,UPI
+64,2025-10-26,South,Grocery,Coffee,Corporate,796.57,10,83.41,4.5,110.57,4.0,Card
+65,2025-08-06,East,Furniture,Bookshelf,Corporate,2391.06,5,616.81,22.47,410.72,4.4,UPI
+66,2025-12-04,South,Grocery,Tea,Corporate,797.69,14,60.57,5.93,70.5,3.8,Bank Transfer
+67,2025-12-04,North,Clothing,Shirt,Corporate,2957.01,14,227.48,7.15,651.91,3.3,Card
+68,2025-10-04,East,Electronics,Laptop,Corporate,751.39,1,919.81,18.31,71.62,2.8,UPI
+69,2025-04-26,East,Sports,Sports Shoes,Returning,1403.24,5,367.34,23.6,258.62,4.8,Bank Transfer
+70,2025-07-10,North,Sports,Tennis Racket,Corporate,116.77,1,120.49,3.09,25.1,4.3,Cash
+71,2025-09-10,North,Furniture,Bookshelf,VIP,7147.78,15,568.57,16.19,1455.06,4.0,Cash
+72,2025-12-02,South,Electronics,Smartphone,Corporate,3856.21,8,632.0,23.73,765.08,3.9,Cash
+73,2025-02-01,West,Grocery,Oil,VIP,79.8,1,84.38,5.43,14.17,4.6,Bank Transfer
+74,2025-10-17,North,Clothing,Jeans,Corporate,286.72,2,170.75,16.04,88.13,3.2,Card
+75,2025-03-31,South,Electronics,Monitor,Returning,16965.11,14,1320.18,8.21,1782.77,4.2,Cash
+76,2025-02-02,North,Electronics,Smartphone,VIP,13392.81,13,1208.04,14.72,1107.35,4.2,Bank Transfer
+77,2025-07-25,North,Grocery,Tea,Corporate,232.13,9,30.48,15.38,20.71,5.0,Bank Transfer
+78,2025-11-02,West,Electronics,Headphones,New,2944.21,15,231.49,15.21,268.41,4.3,UPI
+79,2025-08-21,West,Grocery,Oil,New,876.57,13,85.7,21.32,68.33,3.9,Bank Transfer
+80,2025-02-19,East,Grocery,Rice,Corporate,443.18,6,81.49,9.36,70.08,4.4,UPI
+81,2025-10-23,North,Furniture,Cabinet,VIP,1543.25,11,153.9,8.84,393.61,3.3,Card
+82,2025-11-15,South,Furniture,Bookshelf,New,4187.63,6,768.57,9.19,935.26,3.4,Cash
+83,2025-01-16,North,Sports,Tennis Racket,Returning,1324.36,5,287.03,7.72,227.98,4.4,Cash
+84,2025-03-22,West,Sports,Cricket Bat,Corporate,1085.66,8,149.54,9.25,118.85,4.6,Cash
+85,2025-06-07,West,Electronics,Tablet,Corporate,6869.05,8,957.76,10.35,801.25,3.1,Cash
+86,2025-03-31,North,Furniture,Bookshelf,New,1160.17,4,306.21,5.28,192.58,3.3,Card
+87,2025-05-29,South,Grocery,Oil,VIP,82.53,2,50.66,18.55,7.49,3.0,Cash
+88,2025-07-25,East,Grocery,Rice,Returning,1311.34,13,113.98,11.5,83.61,4.4,Cash
+89,2025-03-17,East,Grocery,Tea,Returning,556.76,6,94.6,1.91,84.02,4.8,Card
+90,2025-10-24,East,Electronics,Smartphone,Returning,2311.4,3,951.31,19.01,442.49,3.5,Bank Transfer
+91,2025-07-08,East,Sports,Sports Shoes,VIP,495.54,3,187.11,11.72,56.17,3.6,UPI
+92,2025-09-01,West,Electronics,Laptop,Corporate,7097.38,10,884.96,19.8,1648.71,3.8,Card
+93,2025-07-18,North,Electronics,Headphones,VIP,2378.35,12,236.37,16.15,206.09,2.8,Bank Transfer
+94,2025-03-18,North,Clothing,T-Shirt,VIP,159.16,2,92.48,13.95,50.98,5.0,UPI
+95,2025-12-10,South,Electronics,Monitor,VIP,6006.52,5,1455.42,17.46,880.75,4.1,Cash
+96,2025-06-01,East,Grocery,Oil,New,185.31,6,40.52,23.78,33.36,2.6,Cash
+97,2025-07-30,North,Sports,Sports Shoes,VIP,4514.89,15,311.2,3.28,1108.98,4.2,UPI
+98,2025-08-14,East,Furniture,Bookshelf,Corporate,1859.63,4,503.91,7.74,380.15,4.4,Bank Transfer
+99,2025-03-05,West,Clothing,Shoes,Returning,735.93,14,61.93,15.12,181.13,3.6,UPI
+100,2025-08-01,East,Electronics,Smartphone,Corporate,9844.23,15,828.43,20.78,941.02,3.0,Cash
+101,2025-08-30,East,Grocery,Oil,Returning,757.3,7,119.37,9.37,101.85,4.2,Card
+102,2025-06-04,North,Grocery,Snacks,New,27.24,1,34.43,20.87,1.76,4.2,Cash
+103,2025-05-04,West,Electronics,Smartphone,Corporate,422.41,2,272.98,22.63,76.64,2.9,Bank Transfer
+104,2025-07-11,East,Furniture,Chair,New,3705.47,9,512.47,19.66,458.22,4.2,UPI
+105,2025-12-17,North,Electronics,Tablet,VIP,3814.83,4,1131.46,15.71,805.52,4.0,Bank Transfer
+106,2025-09-21,South,Grocery,Coffee,New,1001.72,12,94.26,11.44,55.54,3.4,Bank Transfer
+107,2025-08-14,East,Sports,Basketball,New,3208.58,13,265.82,7.15,782.51,3.1,Bank Transfer
+108,2025-10-07,West,Clothing,Jeans,Corporate,1212.41,6,232.21,12.98,201.0,4.1,UPI
+109,2025-08-11,North,Clothing,Shirt,VIP,825.67,11,84.48,11.15,197.15,4.6,UPI
+110,2025-02-04,West,Electronics,Laptop,VIP,9155.66,9,1225.51,16.99,2215.43,3.3,Card
+111,2025-02-28,West,Clothing,Jacket,New,453.16,10,51.06,11.25,74.94,3.6,Cash
+112,2025-03-11,West,Furniture,Bookshelf,New,2919.93,5,708.72,17.6,671.99,4.3,Cash
+113,2025-12-25,West,Grocery,Coffee,New,855.21,13,83.42,21.14,103.04,4.5,Card
+114,2025-03-08,South,Clothing,T-Shirt,New,756.93,4,201.14,5.92,200.17,2.9,Cash
+115,2025-10-10,West,Electronics,Tablet,Corporate,5549.05,9,686.9,10.24,986.25,3.4,Card
+116,2025-02-10,North,Furniture,Bookshelf,New,1553.77,9,180.06,4.12,384.84,3.8,UPI
+117,2025-10-16,East,Furniture,Cabinet,Returning,2930.32,11,307.4,13.34,440.59,3.6,Cash
+118,2025-06-04,North,Electronics,Laptop,VIP,3873.74,11,410.92,14.3,716.95,2.9,Bank Transfer
+119,2025-06-26,East,Furniture,Bookshelf,Corporate,1220.45,2,635.32,3.95,248.48,2.9,Bank Transfer
+120,2025-05-08,North,Furniture,Sofa,VIP,1666.52,4,446.5,6.69,229.02,5.0,Card
+121,2025-10-26,East,Clothing,T-Shirt,Returning,512.07,13,52.45,24.9,127.75,3.3,UPI
+122,2025-07-07,East,Electronics,Laptop,Corporate,11187.94,10,1337.63,16.36,1790.07,3.9,Bank Transfer
+123,2025-03-07,West,Clothing,Shirt,New,1337.09,10,147.03,9.06,321.0,3.1,Cash
+124,2025-09-23,East,Grocery,Tea,VIP,238.4,13,21.59,15.06,34.04,3.1,Bank Transfer
+125,2025-06-03,South,Furniture,Cabinet,VIP,8218.84,15,571.11,4.06,2080.0,2.7,Bank Transfer
+126,2025-10-24,East,Electronics,Tablet,New,5188.04,7,925.51,19.92,1054.76,3.6,Card
+127,2025-06-10,West,Electronics,Monitor,Returning,7515.01,9,988.05,15.49,1675.84,3.9,Bank Transfer
+128,2025-06-16,South,Furniture,Bookshelf,Corporate,4910.86,9,708.73,23.01,1239.75,3.9,Bank Transfer
+129,2025-05-07,East,Sports,Basketball,Returning,2681.83,8,366.61,8.56,602.87,3.4,UPI
+130,2025-05-21,South,Sports,Tennis Racket,VIP,1600.24,13,129.82,5.18,389.14,3.5,UPI
+131,2025-04-20,West,Electronics,Monitor,Corporate,6734.38,14,596.29,19.33,706.44,3.2,Card
+132,2025-07-31,East,Sports,Tennis Racket,Returning,433.41,2,253.96,14.67,47.44,2.8,UPI
+133,2025-01-31,South,Grocery,Rice,New,1015.38,9,117.46,3.95,136.64,3.7,Cash
+134,2025-05-29,North,Sports,Cricket Bat,Returning,2377.58,7,355.25,4.39,638.59,4.4,Cash
+135,2025-08-23,North,Electronics,Tablet,VIP,3136.28,5,747.0,16.03,530.45,4.0,UPI
+136,2025-07-25,East,Furniture,Chair,VIP,5931.38,10,623.24,4.83,1393.7,3.2,Cash
+137,2025-12-21,West,Furniture,Desk,VIP,3657.5,15,260.84,6.52,935.14,4.8,Card
+138,2025-06-01,West,Electronics,Laptop,VIP,1782.39,3,679.47,12.56,413.82,3.9,UPI
+139,2025-05-07,South,Sports,Cricket Bat,Returning,508.74,8,78.21,18.69,100.1,3.5,Cash
+140,2025-09-24,East,Sports,Basketball,New,3461.56,15,234.38,1.54,550.6,3.4,Bank Transfer
+141,2025-07-22,West,Electronics,Smartphone,New,9864.64,15,824.32,20.22,1549.57,4.2,UPI
+142,2025-07-29,North,Electronics,Smartphone,New,4101.88,7,595.45,1.59,1021.37,2.7,Card
+143,2025-10-03,East,Furniture,Bookshelf,Corporate,4882.18,8,789.18,22.67,1185.84,3.5,Bank Transfer
+144,2025-06-27,South,Sports,Cricket Bat,New,344.54,13,28.64,7.46,49.8,4.2,Card
+145,2025-01-25,North,Clothing,Jeans,New,1871.97,13,170.15,15.37,370.9,2.8,Card
+146,2025-06-13,West,Electronics,Headphones,Returning,2962.7,9,419.83,21.59,265.44,4.1,UPI
+147,2025-11-26,South,Furniture,Sofa,Returning,2105.51,7,305.43,1.52,586.07,1.9,Bank Transfer
+148,2025-08-26,West,Sports,Tennis Racket,Corporate,383.39,3,133.96,4.6,48.3,3.9,Cash
+149,2025-12-11,West,Sports,Basketball,Returning,746.1,7,112.29,5.08,171.92,4.0,Cash
+150,2025-09-03,South,Electronics,Smartphone,Corporate,4840.23,4,1319.87,8.32,1174.69,4.3,Card
+151,2025-08-29,West,Sports,Cricket Bat,Returning,1189.27,9,142.21,7.08,307.91,2.6,UPI
+152,2025-03-20,East,Furniture,Sofa,Corporate,498.94,1,528.15,5.53,83.29,4.1,Card
+153,2025-06-30,West,Clothing,Jeans,Returning,882.69,8,144.4,23.59,218.66,2.7,Card
+154,2025-01-25,West,Furniture,Cabinet,Returning,9096.06,15,805.96,24.76,1949.38,4.1,Cash
+155,2025-09-30,South,Grocery,Coffee,New,253.76,12,22.37,5.47,43.5,3.7,Bank Transfer
+156,2025-05-04,East,Electronics,Laptop,VIP,671.18,1,813.06,17.45,102.82,3.7,Card
+157,2025-11-29,East,Sports,Sports Shoes,VIP,1578.51,5,322.08,1.98,243.08,3.9,Cash
+158,2025-02-18,West,Electronics,Headphones,Corporate,5878.88,9,776.89,15.92,1172.74,3.5,Cash
+159,2025-03-15,West,Furniture,Desk,VIP,692.58,1,835.54,17.11,150.81,4.3,Bank Transfer
+160,2025-02-10,South,Electronics,Tablet,Returning,11480.72,10,1271.82,9.73,2668.23,3.8,UPI
+161,2025-04-27,West,Electronics,Laptop,Returning,2672.34,14,224.91,15.13,492.66,4.0,UPI
+162,2025-07-14,West,Sports,Basketball,Returning,2415.38,11,242.63,9.5,358.04,3.1,Card
+163,2025-01-14,East,Grocery,Tea,New,10.34,2,5.6,7.71,0.77,3.1,Cash
+164,2025-10-20,North,Clothing,T-Shirt,VIP,1369.57,14,105.53,7.3,452.27,3.6,Card
+165,2025-09-11,South,Grocery,Coffee,VIP,172.8,5,35.87,3.65,26.22,4.9,Card
+166,2025-11-30,South,Grocery,Rice,VIP,104.63,1,114.11,8.31,9.78,3.4,Card
+167,2025-07-21,South,Clothing,Jacket,Corporate,306.53,6,56.74,9.96,84.78,3.5,UPI
+168,2025-02-05,South,Electronics,Monitor,Returning,12885.49,11,1179.31,0.67,2623.82,4.3,Bank Transfer
+169,2025-12-21,East,Grocery,Coffee,Returning,331.56,5,80.75,17.88,37.23,2.2,Bank Transfer
+170,2025-07-24,East,Sports,Football,New,521.75,2,312.2,16.44,115.8,3.7,UPI
+171,2025-03-19,North,Grocery,Rice,New,124.15,5,30.53,18.67,12.25,3.3,UPI
+172,2025-09-24,North,Electronics,Headphones,VIP,9523.27,7,1390.36,2.15,2107.73,2.8,Bank Transfer
+173,2025-05-05,North,Clothing,Shoes,Corporate,1973.93,12,178.74,7.97,341.52,3.6,Card
+174,2025-04-12,East,Sports,Cricket Bat,Corporate,777.27,8,108.11,10.13,163.65,3.4,Bank Transfer
+175,2025-02-28,West,Sports,Basketball,New,1134.57,12,101.62,6.96,223.1,3.5,UPI
+176,2025-11-11,East,Grocery,Oil,Corporate,487.06,10,50.14,2.86,67.0,4.1,Cash
+177,2025-11-27,North,Furniture,Sofa,Returning,677.35,5,149.41,9.33,128.64,2.9,Card
+178,2025-07-16,West,Sports,Cricket Bat,VIP,215.77,3,91.1,21.05,29.16,3.9,Bank Transfer
+179,2025-09-11,West,Grocery,Snacks,Corporate,166.45,8,24.23,14.13,13.19,4.0,Cash
+180,2025-05-07,East,Sports,Football,VIP,2962.18,9,332.59,1.04,738.81,2.9,UPI
+181,2025-11-20,East,Electronics,Headphones,VIP,15542.23,14,1247.09,10.98,3869.59,3.1,Bank Transfer
+182,2025-05-29,South,Furniture,Cabinet,Returning,3115.79,14,225.9,1.48,531.54,4.7,UPI
+183,2025-07-21,South,Sports,Football,Corporate,593.74,15,42.53,6.93,93.8,3.8,Bank Transfer
+184,2025-07-08,East,Furniture,Cabinet,Corporate,2557.9,7,434.19,15.84,349.81,5.0,Bank Transfer
+185,2025-06-15,North,Grocery,Tea,New,1179.17,12,116.8,15.87,119.93,4.2,UPI
+186,2025-03-22,South,Clothing,T-Shirt,Corporate,1032.72,13,95.78,17.06,316.82,3.1,Bank Transfer
+187,2025-11-29,West,Grocery,Rice,Returning,1025.01,12,109.58,22.05,63.69,4.7,Card
+188,2025-01-05,East,Electronics,Headphones,Returning,5910.44,7,1024.57,17.59,473.93,4.3,Cash
+189,2025-03-10,West,Clothing,Shirt,Returning,228.87,8,31.64,9.58,48.67,4.0,Card
+190,2025-02-21,North,Electronics,Monitor,Returning,4579.3,8,604.64,5.33,948.86,2.6,Card
+191,2025-12-04,West,Electronics,Monitor,VIP,3742.41,7,554.02,3.5,475.6,4.0,UPI
+192,2025-02-06,South,Furniture,Cabinet,Corporate,2408.94,5,599.24,19.6,392.85,2.7,Cash
+193,2025-04-21,South,Clothing,Jacket,Corporate,2657.77,14,212.16,10.52,649.04,3.7,Cash
+194,2025-04-15,East,Electronics,Headphones,Corporate,7462.54,7,1088.5,2.06,1277.71,3.7,Card
+195,2025-12-03,West,Sports,Tennis Racket,New,1166.98,5,285.5,18.25,211.93,3.3,Card
+196,2025-05-18,South,Electronics,Laptop,New,2205.76,3,805.05,8.67,370.41,3.4,Cash
+197,2025-05-11,West,Electronics,Tablet,VIP,1539.63,9,208.14,17.81,274.1,3.2,Cash
+198,2025-01-19,South,Sports,Football,New,345.23,1,346.3,0.31,94.2,3.5,Bank Transfer
+199,2025-07-25,South,Furniture,Sofa,Corporate,9260.1,15,662.24,6.78,1732.62,4.5,Cash
+200,2025-10-30,East,Grocery,Tea,VIP,136.95,2,68.61,0.2,17.93,1.9,Bank Transfer
+201,2025-06-07,South,Furniture,Cabinet,Returning,837.48,1,842.54,0.6,196.36,3.8,Cash
+202,2025-07-31,South,Furniture,Cabinet,Corporate,5249.92,8,867.01,24.31,894.42,3.1,UPI
+203,2025-12-25,North,Grocery,Rice,Returning,1071.87,11,99.3,1.87,86.59,3.3,UPI
+204,2025-03-03,East,Clothing,Shoes,Returning,457.38,2,236.74,3.4,78.27,5.0,UPI
+205,2025-12-31,East,Furniture,Bookshelf,Corporate,3785.52,5,774.61,2.26,661.55,4.0,Card
+206,2025-02-22,North,Clothing,Shoes,VIP,993.42,5,207.72,4.35,259.47,3.5,Card
+207,2025-04-12,North,Electronics,Laptop,Returning,1062.12,3,393.42,10.01,208.89,5.0,Bank Transfer
+208,2025-08-07,East,Furniture,Chair,New,840.13,1,850.94,1.27,166.32,4.9,Card
+209,2025-07-16,South,Clothing,Jeans,VIP,576.77,5,119.81,3.72,161.18,3.5,Card
+210,2025-04-03,South,Grocery,Coffee,New,604.77,7,94.92,8.98,69.74,3.8,Cash
+211,2025-05-04,South,Clothing,T-Shirt,New,2866.25,15,205.51,7.02,634.84,4.1,UPI
+212,2025-10-30,South,Sports,Football,Corporate,1693.94,6,375.38,24.79,278.79,4.2,Cash
+213,2025-01-01,South,Clothing,T-Shirt,Returning,2697.82,14,247.18,22.04,669.29,4.0,UPI
+214,2025-02-26,South,Sports,Cricket Bat,VIP,838.7,12,87.43,20.06,105.25,4.6,UPI
+215,2025-12-22,West,Electronics,Tablet,New,3108.88,6,536.44,3.41,331.95,4.6,UPI
+216,2025-10-18,South,Furniture,Cabinet,Corporate,3121.5,5,673.9,7.36,375.59,5.0,Cash
+217,2025-12-29,East,Furniture,Cabinet,Returning,4470.68,11,530.72,23.42,1136.28,4.0,UPI
+218,2025-03-27,East,Grocery,Rice,Returning,309.19,4,84.72,8.76,33.07,3.6,Bank Transfer
+219,2025-05-14,East,Grocery,Snacks,Corporate,161.06,2,100.31,19.72,17.5,3.9,Cash
+220,2025-01-16,South,Electronics,Tablet,Corporate,2926.61,3,1130.14,13.68,680.97,3.8,Bank Transfer
+221,2025-01-26,West,Furniture,Cabinet,Returning,129.08,1,136.07,5.14,31.69,3.7,Bank Transfer
+222,2025-03-29,West,Sports,Sports Shoes,Returning,140.31,1,157.11,10.69,14.68,4.3,UPI
+223,2025-05-15,North,Electronics,Headphones,VIP,7627.65,13,668.5,12.23,1467.38,3.3,Bank Transfer
+224,2025-10-29,South,Grocery,Tea,VIP,98.16,10,12.09,18.81,11.82,4.4,Card
+225,2025-09-22,West,Sports,Football,Corporate,1937.58,9,281.09,23.41,491.58,4.7,Card
+226,2025-11-01,South,Electronics,Headphones,Returning,4787.02,4,1235.68,3.15,727.5,4.0,UPI
+227,2025-08-01,North,Clothing,Shirt,Corporate,895.92,9,108.38,8.15,290.9,3.1,Card
+228,2025-10-20,North,Furniture,Cabinet,New,5726.53,10,712.61,19.64,1594.41,3.7,Bank Transfer
+229,2025-07-10,East,Electronics,Smartphone,Corporate,2422.63,3,973.18,17.02,359.26,3.3,Cash
+230,2025-06-14,East,Clothing,Jacket,VIP,1509.45,14,130.53,17.4,266.99,3.9,UPI
+231,2025-09-17,North,Grocery,Oil,Returning,186.18,8,29.31,20.6,29.18,4.1,Bank Transfer
+232,2025-07-08,North,Furniture,Cabinet,Returning,3016.18,4,793.9,5.02,379.9,4.3,Bank Transfer
+233,2025-12-19,North,Sports,Basketball,New,550.21,4,161.54,14.85,71.22,4.7,Cash
+234,2025-09-20,West,Clothing,Shirt,New,520.79,3,215.65,19.5,101.57,3.1,Cash
+235,2025-08-24,South,Electronics,Headphones,Returning,11567.02,10,1225.19,5.59,2121.6,4.9,UPI
+236,2025-06-02,East,Furniture,Bookshelf,Corporate,1194.52,10,136.97,12.79,324.66,3.0,Cash
+237,2025-11-04,East,Grocery,Rice,VIP,434.02,11,42.39,6.92,32.33,3.8,Bank Transfer
+238,2025-04-24,North,Clothing,Jeans,Corporate,340.12,5,75.97,10.46,99.18,4.0,Bank Transfer
+239,2025-06-21,East,Clothing,T-Shirt,Returning,2042.21,14,169.54,13.96,608.95,5.0,Cash
+240,2025-10-26,South,Furniture,Sofa,VIP,4621.92,7,719.88,8.28,799.26,2.9,Cash
+241,2025-06-11,North,Grocery,Coffee,Corporate,349.01,9,39.31,1.35,36.02,4.4,Card
+242,2025-02-15,East,Electronics,Headphones,Returning,5966.49,6,995.61,0.12,754.76,3.4,Card
+243,2025-12-13,West,Sports,Basketball,Corporate,2448.34,7,386.82,9.58,386.83,4.0,Cash
+244,2025-09-24,East,Furniture,Desk,VIP,360.08,3,137.3,12.58,47.44,3.4,UPI
+245,2025-09-16,East,Grocery,Coffee,Corporate,525.0,6,91.26,4.12,41.56,3.8,Card
+246,2025-01-25,North,Electronics,Tablet,Corporate,12152.07,15,1003.64,19.28,2259.47,3.9,Cash
+247,2025-12-25,West,Grocery,Snacks,New,252.74,9,34.06,17.55,26.47,2.8,Card
+248,2025-07-29,North,Grocery,Rice,VIP,166.8,2,95.25,12.44,29.44,3.7,UPI
+249,2025-09-19,West,Furniture,Chair,Returning,9281.17,12,843.16,8.27,2235.78,4.0,Cash
+250,2025-08-07,South,Electronics,Tablet,Corporate,2392.17,5,484.49,1.25,522.07,4.0,Cash
+251,2025-07-24,North,Electronics,Laptop,Returning,10228.36,11,1013.13,8.22,2373.69,3.6,Bank Transfer
+252,2025-10-30,West,Clothing,Shoes,Corporate,2353.24,11,223.24,4.17,814.96,4.1,Bank Transfer
+253,2025-01-24,South,Sports,Basketball,Corporate,2016.88,13,156.27,0.72,535.83,4.3,Cash
+254,2025-12-06,North,Clothing,Jacket,Returning,2107.7,11,220.19,12.98,498.62,4.3,Bank Transfer
+255,2025-09-17,North,Furniture,Cabinet,New,8112.62,11,844.22,12.64,1697.57,3.5,Card
+256,2025-12-01,West,Sports,Basketball,Returning,311.02,2,194.46,20.03,58.95,4.3,Cash
+257,2025-06-24,West,Electronics,Headphones,New,6268.52,9,877.76,20.65,1345.24,3.4,UPI
+258,2025-01-02,West,Electronics,Smartphone,VIP,9019.58,9,1179.03,15.0,1820.44,3.2,UPI
+259,2025-04-21,East,Clothing,Jacket,New,197.98,1,225.77,12.31,45.9,4.8,Bank Transfer
+260,2025-03-10,North,Furniture,Sofa,Corporate,662.23,1,837.63,20.94,171.51,4.7,Bank Transfer
+261,2025-11-07,North,Electronics,Monitor,Corporate,9983.84,14,927.47,23.11,2124.4,4.6,UPI
+262,2025-09-20,West,Sports,Basketball,Returning,782.6,5,171.19,8.57,203.13,4.4,UPI
+263,2025-06-15,South,Sports,Tennis Racket,Returning,954.03,4,257.18,7.26,259.97,2.7,Cash
+264,2025-03-16,West,Clothing,T-Shirt,Corporate,1656.99,11,190.75,21.03,516.42,3.8,Cash
+265,2025-12-12,East,Electronics,Smartphone,Returning,5120.86,5,1063.08,3.66,463.67,2.9,Card
+266,2025-01-07,South,Sports,Basketball,VIP,2512.76,12,272.51,23.16,501.0,4.1,UPI
+267,2025-12-16,West,Furniture,Cabinet,Returning,7264.22,15,588.72,17.74,1641.06,4.1,Cash
+268,2025-03-21,North,Furniture,Desk,Corporate,356.61,1,414.23,13.91,80.28,4.5,Cash
+269,2025-10-06,North,Furniture,Sofa,VIP,4977.8,8,721.42,13.75,1231.42,3.9,Bank Transfer
+270,2025-11-29,South,Electronics,Tablet,Returning,5784.51,11,578.0,9.02,677.57,3.4,Cash
+271,2025-05-25,West,Electronics,Tablet,Returning,11627.52,15,1006.32,22.97,1412.17,4.2,Cash
+272,2025-10-01,West,Sports,Tennis Racket,Corporate,111.03,1,132.64,16.29,26.56,4.2,Cash
+273,2025-08-24,South,Electronics,Smartphone,Corporate,3192.23,14,263.42,13.44,636.74,3.8,UPI
+274,2025-08-10,North,Electronics,Laptop,New,3139.16,3,1216.02,13.95,557.97,3.4,UPI
+275,2025-11-07,North,Electronics,Headphones,New,12060.28,11,1113.99,1.58,2494.21,3.5,Cash
+276,2025-11-21,West,Clothing,Shoes,Corporate,2101.3,14,170.27,11.85,479.51,4.8,Card
+277,2025-11-27,North,Clothing,Jacket,Returning,42.53,2,24.82,14.32,7.1,3.7,Card
+278,2025-11-27,South,Furniture,Desk,VIP,490.82,4,147.43,16.77,63.7,3.3,Cash
+279,2025-08-19,East,Clothing,Shirt,New,651.66,4,185.51,12.18,183.18,4.3,UPI
+280,2025-07-04,South,Sports,Tennis Racket,VIP,1627.52,13,140.21,10.71,290.52,3.4,Card
+281,2025-11-17,West,Clothing,Shoes,Corporate,1038.52,6,197.07,12.17,172.8,4.2,Cash
+282,2025-07-07,North,Electronics,Laptop,Corporate,9393.14,13,934.25,22.66,1632.26,3.5,Bank Transfer
+283,2025-03-13,East,Furniture,Cabinet,Returning,3721.55,8,475.95,2.26,453.68,3.3,Bank Transfer
+284,2025-07-04,South,Furniture,Desk,Corporate,409.79,6,84.36,19.04,68.67,2.7,Bank Transfer
+285,2025-07-07,North,Grocery,Snacks,New,383.18,11,42.27,17.59,32.28,4.3,Cash
+286,2025-08-14,West,Sports,Tennis Racket,Returning,1247.64,9,174.22,20.43,322.85,4.7,Card
+287,2025-04-18,East,Furniture,Chair,Returning,569.84,3,208.87,9.06,80.52,3.0,Card
+288,2025-04-03,South,Grocery,Rice,New,204.27,3,70.95,4.03,11.7,3.9,Bank Transfer
+289,2025-11-16,North,Sports,Sports Shoes,VIP,173.6,2,102.31,15.16,21.82,2.8,UPI
+290,2025-11-07,West,Furniture,Sofa,New,1436.74,4,371.48,3.31,307.59,3.2,Cash
+291,2025-01-23,North,Furniture,Bookshelf,New,889.81,2,459.9,3.26,239.32,3.1,Bank Transfer
+292,2025-02-12,West,Furniture,Bookshelf,VIP,5673.28,10,733.93,22.7,1269.12,3.7,UPI
+293,2025-02-24,West,Sports,Sports Shoes,VIP,71.9,4,22.08,18.59,9.85,4.0,Card
+294,2025-10-13,East,Grocery,Oil,VIP,801.35,14,66.65,14.12,61.29,3.1,Bank Transfer
+295,2025-02-21,West,Furniture,Sofa,VIP,2181.58,5,541.0,19.35,316.01,4.2,Card
+296,2025-05-15,East,Sports,Basketball,New,423.51,3,167.86,15.9,49.07,2.1,Card
+297,2025-04-14,North,Clothing,Shirt,Corporate,3128.03,15,246.35,15.35,842.99,3.3,UPI
+298,2025-07-22,South,Furniture,Chair,Returning,834.1,11,80.65,5.98,123.73,3.2,Bank Transfer
+299,2025-07-26,North,Sports,Cricket Bat,New,756.03,15,54.26,7.11,113.23,3.4,Cash
+300,2025-10-22,West,Clothing,Jeans,New,266.89,9,32.01,7.36,91.1,3.5,UPI
+301,2025-04-23,West,Grocery,Snacks,Returning,461.72,13,44.06,19.39,52.02,2.9,Card
+302,2025-09-01,East,Clothing,Shoes,New,2369.81,12,210.56,6.21,744.63,4.6,UPI
+303,2025-11-13,East,Clothing,Jeans,Returning,1627.16,12,175.53,22.75,483.41,4.0,UPI
+304,2025-06-11,North,Furniture,Chair,New,8317.77,11,862.41,12.32,2281.37,4.3,Bank Transfer
+305,2025-07-21,West,Sports,Tennis Racket,Returning,4449.61,13,368.08,7.01,828.06,3.0,Card
+306,2025-05-15,West,Grocery,Rice,VIP,59.57,12,5.97,16.85,9.65,3.6,Card
+307,2025-04-28,East,Clothing,Shoes,VIP,375.77,3,132.21,5.26,120.57,4.4,Cash
+308,2025-11-19,West,Clothing,Jeans,Corporate,149.82,4,49.27,23.98,27.76,4.5,UPI
+309,2025-10-13,East,Grocery,Tea,New,109.98,7,16.38,4.08,6.88,3.8,UPI
+310,2025-07-01,West,Clothing,Shirt,New,996.81,6,218.83,24.08,278.93,4.5,UPI
+311,2025-02-06,West,Sports,Basketball,New,1566.92,7,253.19,11.59,275.66,3.3,Cash
+312,2025-10-28,South,Furniture,Sofa,VIP,2985.61,6,605.06,17.76,570.79,3.3,Bank Transfer
+313,2025-10-08,South,Grocery,Coffee,New,222.04,3,88.69,16.55,15.92,5.0,Cash
+314,2025-03-06,North,Electronics,Headphones,New,4762.25,5,972.98,2.11,1135.18,4.4,Card
+315,2025-10-04,North,Sports,Cricket Bat,New,1319.99,11,155.6,22.88,262.33,4.9,Card
+316,2025-07-31,West,Sports,Sports Shoes,Corporate,2052.18,9,263.12,13.34,318.94,5.0,UPI
+317,2025-08-09,North,Furniture,Sofa,New,5269.85,9,743.07,21.2,1077.45,3.7,UPI
+318,2025-05-15,North,Sports,Cricket Bat,VIP,606.95,4,176.46,14.01,102.03,3.8,Cash
+319,2025-11-15,East,Grocery,Coffee,VIP,793.68,11,90.44,20.22,69.56,3.4,Bank Transfer
+320,2025-02-16,North,Furniture,Sofa,Returning,869.45,1,874.26,0.55,148.49,3.4,Card
+321,2025-07-20,South,Electronics,Headphones,VIP,3080.27,7,549.98,19.99,769.0,4.0,Cash
+322,2025-08-15,South,Sports,Basketball,Returning,4055.44,15,339.78,20.43,968.52,3.7,Card
+323,2025-03-04,West,Electronics,Smartphone,New,8864.58,9,1039.09,5.21,1295.57,3.8,UPI
+324,2025-10-27,South,Grocery,Tea,VIP,137.37,15,10.99,16.67,7.14,2.9,Cash
+325,2025-11-17,North,Grocery,Coffee,New,838.02,10,95.1,11.88,59.08,2.6,Cash
+326,2025-01-11,South,Electronics,Tablet,New,2191.19,3,793.22,7.92,383.28,2.7,Bank Transfer
+327,2025-11-03,East,Clothing,Jeans,New,1245.98,8,181.06,13.98,328.12,2.4,Card
+328,2025-11-14,South,Electronics,Monitor,Corporate,5407.21,5,1250.8,13.54,849.98,4.1,UPI
+329,2025-02-19,East,Sports,Cricket Bat,New,3389.71,11,387.52,20.48,511.72,3.3,Cash
+330,2025-10-30,South,Electronics,Smartphone,New,1019.66,4,267.74,4.79,87.09,4.1,UPI
+331,2025-08-01,South,Electronics,Tablet,New,1330.42,1,1403.69,5.22,217.58,2.3,UPI
+332,2025-04-08,East,Electronics,Monitor,New,2407.65,12,217.14,7.6,579.24,3.2,Card
+333,2025-06-22,South,Sports,Cricket Bat,Corporate,606.02,12,60.1,15.97,78.8,4.1,Card
+334,2025-11-08,West,Sports,Sports Shoes,VIP,1576.7,15,139.76,24.79,363.68,4.4,Card
+335,2025-03-11,South,Sports,Sports Shoes,Corporate,2423.93,13,229.09,18.61,257.52,3.8,UPI
+336,2025-10-20,South,Electronics,Tablet,Returning,6266.31,14,554.57,19.29,1506.23,3.9,Card
+337,2025-06-16,West,Electronics,Laptop,VIP,847.35,3,311.0,9.18,151.65,4.8,Bank Transfer
+338,2025-08-02,North,Furniture,Bookshelf,VIP,574.45,1,671.17,14.41,74.72,3.2,Cash
+339,2025-08-17,North,Furniture,Cabinet,Corporate,305.89,1,309.07,1.03,44.94,3.7,Cash
+340,2025-12-24,East,Furniture,Bookshelf,Corporate,477.05,3,162.36,2.06,61.48,3.1,Card
+341,2025-02-15,South,Furniture,Bookshelf,Corporate,4023.56,7,604.41,4.9,1015.63,3.1,Cash
+342,2025-08-15,East,Grocery,Snacks,VIP,142.64,4,41.88,14.85,18.56,5.0,Card
+343,2025-01-08,South,Grocery,Rice,Returning,427.91,11,47.99,18.94,74.18,4.7,UPI
+344,2025-03-14,West,Electronics,Tablet,Corporate,471.06,1,577.99,18.5,54.65,2.8,Cash
+345,2025-12-04,North,Grocery,Oil,VIP,33.94,3,11.91,5.02,5.87,3.2,UPI
+346,2025-04-12,East,Electronics,Laptop,Corporate,5140.02,4,1472.11,12.71,1031.33,2.9,Bank Transfer
+347,2025-09-14,North,Sports,Football,Returning,3041.0,15,221.18,8.34,646.34,4.0,UPI
+348,2025-12-14,West,Electronics,Tablet,New,12142.26,9,1429.78,5.64,1676.89,5.0,Card
+349,2025-12-28,South,Grocery,Coffee,Corporate,502.99,5,109.62,8.23,60.55,4.2,Card
+350,2025-07-31,South,Grocery,Coffee,VIP,105.4,2,69.09,23.72,15.23,3.3,Bank Transfer
+351,2025-01-14,East,Clothing,Shoes,Returning,743.78,13,59.16,3.29,203.34,3.4,UPI
+352,2025-01-08,South,Electronics,Headphones,Corporate,11635.75,12,1016.4,4.6,1697.29,3.5,UPI
+353,2025-11-08,South,Grocery,Coffee,Returning,38.61,2,25.36,23.87,6.28,2.7,Bank Transfer
+354,2025-07-18,North,Clothing,Shoes,New,764.18,8,122.37,21.94,196.83,4.3,Cash
+355,2025-08-20,West,Furniture,Sofa,Corporate,3674.47,15,308.87,20.69,720.35,4.6,Cash
+356,2025-05-09,South,Sports,Football,Returning,1100.3,7,177.15,11.27,200.08,4.8,UPI
+357,2025-03-29,North,Furniture,Chair,New,4713.7,12,431.99,9.07,891.53,3.3,UPI
+358,2025-03-09,South,Sports,Cricket Bat,Returning,924.85,3,312.28,1.28,122.57,4.3,Card
+359,2025-11-04,East,Electronics,Monitor,New,5649.05,8,806.73,12.47,1227.35,3.1,Cash
+360,2025-06-19,East,Furniture,Cabinet,Returning,204.25,1,207.11,1.38,29.85,4.0,Cash
+361,2025-02-17,West,Electronics,Laptop,Returning,2662.28,3,1047.48,15.28,525.95,2.4,UPI
+362,2025-09-26,West,Clothing,Jacket,New,1294.0,13,115.42,13.76,373.87,3.0,Card
+363,2025-06-12,North,Furniture,Cabinet,New,5649.04,10,670.27,15.72,1169.69,3.6,UPI
+364,2025-04-10,East,Sports,Sports Shoes,Returning,2034.29,10,233.8,12.99,462.89,4.7,Cash
+365,2025-05-25,West,Electronics,Laptop,New,12388.81,12,1290.34,19.99,3095.07,4.3,UPI
+366,2025-06-19,East,Electronics,Tablet,VIP,1383.58,13,128.46,17.15,190.98,3.8,UPI
+367,2025-10-17,North,Grocery,Snacks,Returning,161.88,8,22.87,11.52,25.23,4.6,UPI
+368,2025-07-12,North,Sports,Sports Shoes,Returning,2244.2,10,280.49,19.99,237.01,4.1,Card
+369,2025-06-04,West,Sports,Sports Shoes,Returning,518.03,10,64.4,19.56,59.9,4.3,Card
+370,2025-04-08,South,Sports,Tennis Racket,New,1538.44,6,318.28,19.44,292.32,3.3,UPI
+371,2025-03-01,East,Grocery,Oil,VIP,273.57,3,93.49,2.46,20.98,2.7,Cash
+372,2025-04-18,North,Clothing,Shirt,VIP,1745.45,8,223.96,2.58,269.67,4.7,UPI
+373,2025-06-29,East,Furniture,Desk,VIP,2572.59,9,321.28,11.03,377.86,3.3,UPI
+374,2025-02-24,East,Clothing,Jeans,Returning,80.62,3,31.74,15.33,14.19,3.8,Bank Transfer
+375,2025-10-01,West,Electronics,Laptop,Corporate,2547.18,3,1092.46,22.28,476.35,4.2,Cash
+376,2025-04-25,South,Grocery,Oil,New,1124.01,14,97.27,17.46,168.2,4.9,Card
+377,2025-03-29,East,Sports,Tennis Racket,Corporate,714.94,3,285.85,16.63,132.66,3.3,UPI
+378,2025-07-31,South,Clothing,T-Shirt,New,1161.03,7,207.12,19.92,358.16,4.4,Card
+379,2025-12-09,South,Sports,Cricket Bat,Corporate,299.25,7,45.1,5.21,48.36,3.7,Cash
+380,2025-07-14,North,Sports,Basketball,Corporate,1100.84,6,230.93,20.55,271.39,3.4,UPI
+381,2025-08-17,North,Grocery,Rice,Returning,251.07,14,20.98,14.52,34.12,3.6,Card
+382,2025-07-26,East,Furniture,Sofa,VIP,11388.54,15,851.83,10.87,2072.35,4.7,Card
+383,2025-07-15,East,Clothing,Shirt,New,143.29,1,180.29,20.52,46.3,3.3,Bank Transfer
+384,2025-03-06,South,Grocery,Snacks,Returning,144.6,8,20.99,13.89,12.65,4.2,Card
+385,2025-08-06,North,Electronics,Laptop,Returning,13446.37,12,1341.15,16.45,3304.39,4.6,Card
+386,2025-07-30,West,Grocery,Oil,Corporate,306.12,7,45.86,4.64,24.73,3.1,UPI
+387,2025-09-25,West,Electronics,Laptop,VIP,1398.83,2,920.77,24.04,130.95,3.6,Cash
+388,2025-08-04,North,Furniture,Bookshelf,VIP,867.12,10,94.86,8.59,177.24,4.6,UPI
+389,2025-11-16,South,Clothing,Jacket,New,2261.01,12,231.87,18.74,366.92,5.0,Cash
+390,2025-11-06,North,Clothing,Shoes,Returning,239.25,9,33.06,19.59,49.06,4.5,Card
+391,2025-03-20,West,Sports,Cricket Bat,VIP,906.12,13,86.65,19.56,251.12,4.7,Bank Transfer
+392,2025-03-27,South,Grocery,Snacks,Corporate,890.31,12,78.32,5.27,131.96,3.6,Bank Transfer
+393,2025-08-18,East,Grocery,Snacks,Corporate,1053.0,12,114.05,23.06,88.6,3.3,Bank Transfer
+394,2025-02-20,North,Clothing,T-Shirt,New,1912.1,15,139.85,8.85,536.18,4.0,UPI
+395,2025-07-30,West,Sports,Basketball,Returning,2667.52,12,275.32,19.26,271.83,4.1,Cash
+396,2025-04-22,West,Sports,Football,VIP,1107.91,4,295.6,6.3,289.07,3.8,Cash
+397,2025-08-21,South,Electronics,Laptop,Corporate,10823.04,11,1174.12,16.2,2343.66,3.7,UPI
+398,2025-08-14,East,Grocery,Tea,Returning,141.51,13,13.51,19.43,24.66,3.6,Cash
+399,2025-10-20,West,Grocery,Coffee,Returning,653.1,11,61.59,3.6,110.14,4.0,UPI
+400,2025-09-21,West,Grocery,Rice,Returning,663.31,11,78.64,23.32,111.17,4.0,Bank Transfer
+401,2025-01-29,West,Grocery,Snacks,New,251.94,9,30.97,9.61,30.13,3.5,Cash
+402,2025-12-23,East,Clothing,T-Shirt,New,1392.29,14,123.02,19.16,219.8,4.3,Bank Transfer
+403,2025-06-07,West,Electronics,Tablet,New,12160.36,15,993.25,18.38,1262.13,4.6,Bank Transfer
+404,2025-12-14,North,Sports,Basketball,New,199.01,6,41.3,19.69,36.32,4.1,Card
+405,2025-06-07,North,Sports,Cricket Bat,New,740.8,12,73.8,16.35,91.49,3.9,Cash
+406,2025-12-14,South,Grocery,Oil,New,1346.64,14,99.01,2.85,102.81,4.0,Bank Transfer
+407,2025-03-26,South,Clothing,Shirt,VIP,3203.44,14,241.7,5.33,521.02,4.1,Bank Transfer
+408,2025-02-15,North,Furniture,Cabinet,Returning,1216.5,2,722.39,15.8,180.52,4.4,UPI
+409,2025-11-18,South,Grocery,Snacks,Returning,204.91,3,78.58,13.08,11.25,2.1,UPI
+410,2025-11-17,North,Clothing,Shoes,Returning,147.86,4,42.61,13.25,44.69,3.8,Card
+411,2025-05-09,South,Clothing,Shirt,New,513.63,13,50.07,21.09,93.46,3.5,UPI
+412,2025-08-16,North,Sports,Basketball,New,414.81,12,39.93,13.43,59.05,4.2,UPI
+413,2025-08-12,East,Grocery,Coffee,Returning,216.64,13,17.67,5.69,35.94,3.6,Card
+414,2025-10-19,West,Furniture,Cabinet,Returning,2277.96,7,367.46,11.44,420.39,3.7,Cash
+415,2025-10-11,North,Clothing,Jeans,Corporate,733.96,8,113.28,19.01,133.11,4.6,Card
+416,2025-04-24,West,Electronics,Headphones,Returning,6839.26,10,773.41,11.57,564.0,3.3,Card
+417,2025-02-12,West,Sports,Football,New,323.93,1,396.68,18.34,73.01,4.5,Cash
+418,2025-10-26,South,Grocery,Coffee,VIP,121.89,5,32.49,24.97,13.37,4.3,Cash
+419,2025-08-07,South,Grocery,Snacks,Corporate,260.87,3,95.83,9.26,15.44,3.7,UPI
+420,2025-07-07,South,Sports,Sports Shoes,New,2894.87,10,354.72,18.39,347.31,4.0,Bank Transfer
+421,2025-10-25,East,Sports,Football,VIP,658.16,3,266.31,17.62,129.75,3.1,Card
+422,2025-12-30,East,Furniture,Sofa,VIP,5261.91,9,628.19,6.93,958.41,2.9,UPI
+423,2025-09-12,East,Grocery,Oil,New,381.01,4,107.57,11.45,66.43,3.6,Card
+424,2025-02-02,North,Furniture,Cabinet,VIP,5290.47,7,874.14,13.54,965.01,4.9,Cash
+425,2025-06-06,East,Furniture,Cabinet,Corporate,2862.39,10,341.37,16.15,649.2,3.7,Card
+426,2025-05-27,West,Clothing,Jeans,VIP,967.89,5,195.89,1.18,177.39,4.2,Card
+427,2025-07-10,South,Furniture,Desk,Returning,156.5,2,84.98,7.92,26.12,3.5,Bank Transfer
+428,2025-10-07,East,Sports,Cricket Bat,New,339.14,15,29.47,23.28,93.14,4.4,UPI
+429,2025-07-25,East,Clothing,Shoes,Returning,1486.12,13,147.83,22.67,440.38,3.2,Card
+430,2025-08-17,North,Grocery,Tea,VIP,71.28,1,74.94,4.88,5.38,3.6,Cash
+431,2025-06-26,South,Sports,Basketball,Corporate,1304.02,6,249.21,12.79,230.78,3.7,UPI
+432,2025-08-01,North,Clothing,Shoes,Returning,2186.03,12,223.63,18.54,399.51,3.9,Card
+433,2025-05-20,North,Sports,Sports Shoes,Returning,407.26,4,135.23,24.71,68.27,4.8,Bank Transfer
+434,2025-10-14,West,Furniture,Cabinet,Returning,753.03,4,208.11,9.54,96.09,3.8,Bank Transfer
+435,2025-01-15,North,Furniture,Chair,Returning,1281.44,5,305.14,16.01,182.42,4.6,Cash
+436,2025-10-22,North,Clothing,Shoes,VIP,1139.68,10,127.91,10.9,393.02,3.2,Cash
+437,2025-11-24,North,Clothing,Jeans,Returning,611.84,6,123.35,17.33,135.97,4.4,Cash
+438,2025-12-19,South,Sports,Cricket Bat,New,2644.15,10,306.0,13.59,590.65,4.0,UPI
+439,2025-10-14,East,Electronics,Monitor,Returning,287.24,1,308.99,7.04,61.01,2.5,Cash
+440,2025-09-25,North,Grocery,Snacks,New,280.05,14,20.09,0.43,30.09,3.8,UPI
+441,2025-01-10,North,Furniture,Sofa,New,526.95,4,159.41,17.36,92.39,3.8,Bank Transfer
+442,2025-02-19,South,Grocery,Rice,New,83.85,1,96.2,12.84,4.91,3.5,Cash
+443,2025-05-04,South,Sports,Cricket Bat,Returning,1651.03,11,153.58,2.27,212.82,2.7,Cash
+444,2025-09-16,North,Electronics,Monitor,Returning,4286.93,12,384.34,7.05,1000.06,3.8,Bank Transfer
+445,2025-02-26,South,Clothing,T-Shirt,Corporate,2521.41,11,240.07,4.52,486.27,4.2,Card
+446,2025-10-11,East,Grocery,Tea,New,82.99,2,42.73,2.89,14.68,3.8,Bank Transfer
+447,2025-02-13,South,Clothing,Shoes,New,2810.49,15,212.65,11.89,982.95,2.9,Cash
+448,2025-03-04,West,Furniture,Bookshelf,New,7583.71,12,836.5,24.45,2241.27,4.2,Card
+449,2025-02-25,East,Grocery,Snacks,VIP,1044.78,13,95.79,16.1,107.17,3.6,Cash
+450,2025-11-06,West,Clothing,Shoes,Returning,2581.81,11,236.46,0.74,644.49,5.0,UPI
+451,2025-10-07,North,Furniture,Sofa,New,6123.43,11,688.87,19.19,957.38,3.0,Cash
+452,2025-12-28,North,Electronics,Headphones,Corporate,4015.6,8,554.09,9.41,635.03,5.0,Card
+453,2025-01-29,South,Grocery,Snacks,VIP,482.88,12,49.74,19.1,58.0,3.4,Bank Transfer
+454,2025-01-14,West,Clothing,Shoes,VIP,2927.25,13,244.78,8.01,929.07,3.6,UPI
+455,2025-03-28,West,Grocery,Rice,VIP,309.79,6,52.37,1.41,18.91,4.0,Cash
+456,2025-07-13,North,Sports,Tennis Racket,Corporate,3285.18,11,348.08,14.2,911.43,3.5,Bank Transfer
+457,2025-11-22,North,Clothing,T-Shirt,Corporate,336.43,2,177.35,5.15,95.37,4.3,Cash
+458,2025-10-31,East,Sports,Cricket Bat,VIP,113.91,1,132.98,14.34,23.25,3.7,UPI
+459,2025-09-21,West,Clothing,Shirt,Corporate,379.06,4,96.62,1.92,79.6,3.3,Bank Transfer
+460,2025-08-11,North,Sports,Cricket Bat,Returning,1750.58,10,209.7,16.52,429.96,4.1,Cash
+461,2025-05-17,East,Sports,Cricket Bat,Corporate,271.69,3,111.34,18.66,71.73,2.9,UPI
+462,2025-11-28,South,Furniture,Sofa,Corporate,557.95,4,146.52,4.8,150.03,2.8,Cash
+463,2025-02-12,East,Furniture,Desk,Returning,215.47,1,269.64,20.09,32.68,5.0,UPI
+464,2025-09-14,North,Sports,Tennis Racket,Corporate,1981.75,15,158.11,16.44,238.1,4.0,Cash
+465,2025-04-22,East,Sports,Sports Shoes,Corporate,692.2,15,54.29,15.0,169.62,3.7,Card
+466,2025-09-01,South,Electronics,Smartphone,VIP,4288.93,8,683.56,21.57,383.89,2.2,Card
+467,2025-12-10,East,Clothing,Jeans,Corporate,1123.33,12,101.42,7.7,176.32,5.0,Card
+468,2025-07-21,West,Clothing,T-Shirt,VIP,2402.95,11,240.24,9.07,777.09,4.3,UPI
+469,2025-09-09,South,Clothing,Shirt,VIP,833.04,4,216.96,4.01,260.28,3.8,Bank Transfer
+470,2025-12-22,West,Grocery,Tea,New,306.76,14,23.44,6.52,37.18,4.1,Cash
+471,2025-11-01,West,Electronics,Smartphone,Returning,567.2,1,672.91,15.71,75.63,4.4,Bank Transfer
+472,2025-07-13,West,Clothing,Shoes,Returning,237.5,5,55.77,14.83,39.63,2.8,Card
+473,2025-03-02,South,Electronics,Laptop,New,2596.88,8,393.61,17.53,282.25,2.7,Cash
+474,2025-08-09,West,Sports,Basketball,Corporate,199.9,2,105.3,5.08,33.74,5.0,Card
+475,2025-02-13,East,Sports,Cricket Bat,Returning,497.0,7,88.54,19.81,71.91,2.9,Cash
+476,2025-05-01,East,Grocery,Coffee,Corporate,292.49,11,29.41,9.59,35.8,3.3,Bank Transfer
+477,2025-09-10,North,Clothing,T-Shirt,New,604.27,5,133.57,9.52,106.62,4.0,UPI
+478,2025-07-04,North,Grocery,Coffee,VIP,763.96,12,66.0,3.54,124.77,4.2,Bank Transfer
+479,2025-03-18,East,Clothing,Jacket,VIP,1449.31,7,224.78,7.89,261.24,3.9,Cash
+480,2025-10-15,North,Furniture,Desk,Corporate,834.71,5,189.02,11.68,234.66,3.6,Bank Transfer
+481,2025-01-03,North,Grocery,Snacks,Returning,85.8,2,45.2,5.09,13.46,3.5,Card
+482,2025-02-24,South,Grocery,Rice,Corporate,160.02,11,15.85,8.22,15.77,3.4,UPI
+483,2025-10-19,North,Furniture,Chair,Corporate,8027.1,14,651.55,12.0,1352.38,3.2,Card
+484,2025-07-24,East,Furniture,Chair,VIP,1241.23,13,97.2,1.77,234.16,3.3,Cash
+485,2025-11-05,South,Electronics,Smartphone,Corporate,7358.58,13,675.31,16.18,1782.64,5.0,Card
+486,2025-04-06,East,Clothing,Shirt,Returning,864.57,8,119.68,9.7,145.29,3.1,Bank Transfer
+487,2025-09-02,North,Grocery,Rice,VIP,555.09,8,82.79,16.19,74.46,3.5,UPI
+488,2025-08-26,East,Furniture,Desk,Returning,3193.22,9,413.57,14.21,910.43,3.9,UPI
+489,2025-12-10,North,Clothing,Jacket,New,334.3,2,189.02,11.57,53.17,3.4,Bank Transfer
+490,2025-03-01,East,Sports,Tennis Racket,Returning,293.83,4,90.33,18.68,29.69,4.8,Cash
+491,2025-06-04,West,Furniture,Bookshelf,Corporate,6940.0,14,609.06,18.61,1211.06,4.8,Cash
+492,2025-11-17,North,Furniture,Desk,Returning,1228.38,2,743.57,17.4,153.33,3.6,Card
+493,2025-05-31,West,Electronics,Tablet,Returning,5454.05,8,702.19,2.91,1273.03,3.3,Bank Transfer
+494,2025-01-19,North,Electronics,Tablet,New,12656.25,11,1289.73,10.79,1906.87,4.0,Bank Transfer
+495,2025-11-27,West,Grocery,Snacks,Returning,143.07,12,11.98,0.48,19.21,4.5,UPI
+496,2025-12-03,North,Grocery,Snacks,Returning,390.64,5,88.51,11.73,54.32,4.5,Bank Transfer
+497,2025-09-05,West,Furniture,Sofa,Corporate,9959.34,14,850.02,16.31,2041.85,3.7,Card
+498,2025-05-14,South,Furniture,Desk,Corporate,1107.26,2,724.46,23.58,179.65,3.5,UPI
+499,2025-05-17,North,Furniture,Desk,New,2110.77,6,416.03,15.44,338.43,5.0,Card
+500,2025-02-22,North,Sports,Sports Shoes,New,4556.67,15,379.58,19.97,955.71,4.2,Cash
+501,2025-03-12,South,Sports,Football,New,1248.61,14,98.05,9.04,320.5,4.2,Cash
+502,2025-11-19,West,Furniture,Bookshelf,New,2678.62,4,759.59,11.84,404.01,4.3,Card
+503,2025-01-06,West,Furniture,Cabinet,Returning,1967.59,3,731.5,10.34,398.59,4.2,Cash
+504,2025-11-20,East,Electronics,Tablet,Corporate,4438.59,13,346.77,1.54,927.94,3.9,UPI
+505,2025-11-13,East,Grocery,Snacks,VIP,530.41,15,44.58,20.68,54.37,4.5,Bank Transfer
+506,2025-02-17,South,Clothing,Shoes,VIP,43.42,2,23.69,8.36,7.61,3.2,UPI
+507,2025-05-13,South,Sports,Tennis Racket,New,309.95,1,358.32,13.5,59.18,3.6,UPI
+508,2025-11-18,North,Electronics,Laptop,Corporate,4543.89,5,909.96,0.13,625.36,2.5,Card
+509,2025-07-30,East,Clothing,Jacket,Returning,1015.42,12,103.75,18.44,191.42,4.2,Cash
+510,2025-10-27,West,Electronics,Laptop,Returning,3266.24,8,416.4,1.95,637.11,4.4,Bank Transfer
+511,2025-01-17,West,Grocery,Snacks,Corporate,290.23,14,23.73,12.64,33.87,3.5,Card
+512,2025-09-06,North,Sports,Tennis Racket,Corporate,113.02,2,65.93,14.29,17.47,3.1,Cash
+513,2025-10-21,West,Furniture,Desk,New,9450.34,15,810.11,22.23,2527.42,4.3,UPI
+514,2025-03-18,East,Sports,Basketball,Corporate,2134.72,8,337.09,20.84,469.85,3.3,UPI
+515,2025-11-19,West,Electronics,Monitor,Corporate,4987.8,4,1362.34,8.47,437.88,3.9,UPI
+516,2025-12-04,North,Sports,Football,Returning,1831.15,10,225.9,18.94,189.27,3.9,Card
+517,2025-08-12,South,Electronics,Tablet,Returning,11914.66,14,1093.75,22.19,1852.96,3.9,Card
+518,2025-07-28,East,Grocery,Rice,Corporate,58.41,5,15.47,24.49,8.75,3.7,Card
+519,2025-05-03,East,Electronics,Monitor,Returning,1022.08,1,1104.35,7.45,98.92,4.0,Card
+520,2025-05-18,West,Grocery,Oil,New,52.9,5,11.97,11.62,4.25,3.7,Cash
+521,2025-08-05,South,Furniture,Cabinet,VIP,3874.2,10,395.73,2.1,606.79,4.0,Bank Transfer
+522,2025-06-29,West,Electronics,Laptop,VIP,16074.56,11,1461.47,0.01,3836.94,2.9,Card
+523,2025-11-09,East,Sports,Sports Shoes,New,775.57,3,300.89,14.08,155.24,3.7,UPI
+524,2025-01-02,West,Clothing,Jacket,VIP,627.68,4,170.64,8.04,135.39,4.5,Bank Transfer
+525,2025-12-10,South,Electronics,Laptop,Corporate,10054.61,9,1355.47,17.58,2107.64,5.0,Bank Transfer
+526,2025-04-24,West,Electronics,Tablet,VIP,2061.73,7,364.52,19.2,409.24,4.1,Cash
+527,2025-04-18,South,Clothing,Jacket,New,2059.34,14,159.16,7.58,512.28,4.7,Cash
+528,2025-10-29,North,Furniture,Bookshelf,VIP,4550.33,10,475.28,4.26,1151.17,3.2,Card
+529,2025-08-21,East,Electronics,Smartphone,Returning,10157.76,15,841.85,19.56,1143.91,3.8,Cash
+530,2025-04-25,East,Grocery,Rice,Corporate,1557.62,14,119.44,6.85,231.58,4.7,Cash
+531,2025-04-11,West,Clothing,Shoes,VIP,98.13,1,107.09,8.37,34.15,5.0,Card
+532,2025-05-03,North,Clothing,Jacket,New,101.98,1,127.79,20.2,22.12,3.4,UPI
+533,2025-12-22,South,Electronics,Tablet,New,10972.71,13,947.95,10.96,1056.28,2.7,Cash
+534,2025-11-13,West,Furniture,Chair,New,2538.32,5,569.13,10.8,330.09,4.8,Bank Transfer
+535,2025-02-25,North,Furniture,Cabinet,Corporate,2779.07,7,444.58,10.7,384.15,2.9,Cash
+536,2025-01-23,North,Electronics,Monitor,Returning,11488.54,15,911.03,15.93,1419.62,3.7,Cash
+537,2025-03-16,West,Furniture,Sofa,VIP,2361.15,5,546.12,13.53,482.89,2.8,Cash
+538,2025-08-28,North,Furniture,Cabinet,Corporate,1231.64,6,216.1,5.01,321.89,3.7,UPI
+539,2025-04-20,East,Sports,Sports Shoes,VIP,987.59,7,144.88,2.62,212.31,3.5,Card
+540,2025-04-10,West,Grocery,Tea,Returning,137.96,7,26.19,24.75,8.96,3.1,UPI
+541,2025-01-11,South,Electronics,Laptop,Returning,1402.91,5,360.32,22.13,283.67,4.6,Card
+542,2025-08-11,East,Grocery,Rice,Returning,260.75,5,57.46,9.24,40.12,2.5,Cash
+543,2025-05-31,South,Electronics,Smartphone,Returning,2826.06,4,854.93,17.36,378.84,2.6,Card
+544,2025-11-11,North,Clothing,Jeans,VIP,546.51,14,44.72,12.71,161.47,3.1,Cash
+545,2025-10-26,West,Furniture,Cabinet,VIP,3752.88,8,491.06,4.47,805.31,2.9,Cash
+546,2025-02-13,South,Furniture,Desk,Corporate,3298.71,14,249.23,5.46,619.74,3.3,Card
+547,2025-04-02,West,Electronics,Tablet,VIP,3272.77,4,925.87,11.63,607.4,3.5,Bank Transfer
+548,2025-02-06,North,Furniture,Sofa,VIP,1421.45,15,120.06,21.07,335.26,4.4,UPI
+549,2025-10-06,South,Electronics,Monitor,VIP,3943.69,4,1051.65,6.25,815.11,4.7,UPI
+550,2025-03-18,East,Electronics,Tablet,VIP,14844.97,13,1495.64,23.65,3261.68,4.8,Bank Transfer
+551,2025-12-24,South,Furniture,Desk,Corporate,1569.88,4,488.45,19.65,392.55,4.3,Bank Transfer
+552,2025-04-26,West,Furniture,Bookshelf,New,788.37,6,168.11,21.84,199.3,4.9,Bank Transfer
+553,2025-07-20,East,Grocery,Snacks,VIP,61.64,10,7.67,19.63,5.73,3.0,Bank Transfer
+554,2025-04-01,North,Furniture,Bookshelf,Corporate,1665.11,4,453.56,8.22,391.34,3.2,Cash
+555,2025-07-30,North,Sports,Basketball,Returning,140.96,4,46.41,24.07,15.55,3.4,Bank Transfer
+556,2025-12-07,South,Furniture,Chair,Corporate,4923.29,8,681.67,9.72,773.78,3.8,Bank Transfer
+557,2025-10-19,East,Furniture,Cabinet,Returning,5252.79,9,659.26,11.47,1567.41,3.8,Bank Transfer
+558,2025-03-31,North,Grocery,Snacks,New,305.5,5,79.32,22.97,30.81,4.4,Bank Transfer
+559,2025-05-30,West,Furniture,Desk,Corporate,5504.65,7,824.21,4.59,1050.5,3.7,Cash
+560,2025-08-25,West,Furniture,Bookshelf,New,672.15,6,115.05,2.63,120.1,4.8,Cash
+561,2025-02-12,West,Electronics,Headphones,VIP,7661.7,12,671.09,4.86,662.14,3.0,Card
+562,2025-12-10,West,Grocery,Coffee,VIP,260.71,14,23.56,20.96,38.16,4.0,Cash
+563,2025-02-22,West,Clothing,Jeans,VIP,196.06,3,65.92,0.86,56.73,3.1,Bank Transfer
+564,2025-01-08,North,Clothing,Shoes,New,158.83,1,196.52,19.18,31.4,2.9,UPI
+565,2025-10-05,South,Furniture,Chair,New,8240.79,13,760.08,16.6,1054.18,3.1,Bank Transfer
+566,2025-05-23,South,Grocery,Rice,Returning,88.03,2,46.01,4.34,9.65,3.1,UPI
+567,2025-06-16,South,Electronics,Laptop,Corporate,5159.63,5,1179.21,12.49,1281.55,3.8,Bank Transfer
+568,2025-09-15,South,Furniture,Sofa,VIP,8484.04,14,616.42,1.69,2410.98,4.1,Cash
+569,2025-11-03,North,Furniture,Chair,VIP,2196.12,4,677.23,18.93,287.22,3.9,Bank Transfer
+570,2025-06-19,East,Clothing,Jeans,VIP,2177.57,11,199.94,0.99,680.58,4.0,UPI
+571,2025-04-09,North,Furniture,Desk,Returning,6761.93,13,634.25,17.99,1275.76,4.0,Cash
+572,2025-04-12,South,Furniture,Desk,New,1316.02,3,553.74,20.78,213.9,3.6,Card
+573,2025-08-05,South,Grocery,Coffee,VIP,270.22,5,71.29,24.19,46.92,3.2,Bank Transfer
+574,2025-08-26,North,Furniture,Bookshelf,Corporate,4401.21,7,775.94,18.97,999.66,4.3,UPI
+575,2025-08-01,West,Grocery,Tea,Corporate,71.16,2,43.32,17.87,11.53,3.3,Bank Transfer
+576,2025-08-12,West,Clothing,Shoes,VIP,2669.39,11,247.07,1.78,466.86,4.3,UPI
+577,2025-12-07,West,Clothing,T-Shirt,VIP,309.72,12,28.56,9.63,76.05,3.8,Card
+578,2025-07-16,West,Clothing,T-Shirt,Returning,312.82,5,73.14,14.46,54.23,3.6,Bank Transfer
+579,2025-02-15,South,Sports,Football,Corporate,942.33,3,335.3,6.32,146.47,2.6,Cash
+580,2025-12-23,South,Sports,Tennis Racket,VIP,971.77,12,99.62,18.71,114.12,4.6,Bank Transfer
+581,2025-04-04,East,Sports,Basketball,Corporate,248.92,3,87.03,4.66,50.3,3.9,Card
+582,2025-09-06,West,Clothing,Shoes,New,2257.76,14,164.56,2.0,367.68,4.3,Cash
+583,2025-08-31,East,Electronics,Laptop,New,7652.6,11,923.77,24.69,738.19,3.9,UPI
+584,2025-07-02,East,Sports,Basketball,VIP,2956.04,11,358.26,24.99,326.06,2.2,UPI
+585,2025-12-18,West,Electronics,Laptop,Corporate,11741.55,12,1272.88,23.13,990.58,3.8,Bank Transfer
+586,2025-08-16,South,Sports,Basketball,New,3364.54,11,383.87,20.32,533.6,4.6,Card
+587,2025-03-15,West,Sports,Basketball,New,840.48,6,182.61,23.29,195.13,3.7,Cash
+588,2025-05-04,North,Furniture,Bookshelf,VIP,7514.47,14,622.1,13.72,1129.05,4.2,Card
+589,2025-12-10,North,Furniture,Desk,New,6214.82,7,894.36,0.73,1111.02,2.9,Cash
+590,2025-07-15,West,Furniture,Cabinet,New,6486.11,13,638.02,21.8,1673.03,2.3,Bank Transfer
+591,2025-10-23,East,Furniture,Desk,New,608.76,5,124.53,2.23,175.75,4.9,Cash
+592,2025-07-22,South,Clothing,Shirt,Corporate,573.24,7,90.12,9.13,145.57,2.4,Cash
+593,2025-11-03,East,Sports,Basketball,Returning,4187.71,14,378.3,20.93,920.3,4.1,UPI
+594,2025-06-20,North,Clothing,T-Shirt,VIP,2231.3,14,181.03,11.96,648.92,2.8,Card
+595,2025-06-28,North,Furniture,Desk,Returning,5864.19,14,464.38,9.8,1399.58,3.2,Bank Transfer
+596,2025-01-28,East,Grocery,Rice,VIP,1099.98,12,111.15,17.53,168.15,4.7,UPI
+597,2025-03-17,South,Grocery,Coffee,Corporate,562.97,12,60.48,22.43,75.81,4.0,Bank Transfer
+598,2025-11-18,North,Grocery,Coffee,New,670.65,6,117.03,4.49,85.27,3.5,Bank Transfer
+599,2025-11-29,North,Furniture,Chair,Returning,2697.05,7,465.33,17.2,640.56,3.1,Bank Transfer
+600,2025-09-03,East,Clothing,Shoes,New,82.23,2,42.41,3.05,16.03,2.8,UPI
+601,2025-12-25,South,Electronics,Monitor,Corporate,9891.2,8,1499.94,17.57,1293.0,3.1,Cash
+602,2025-03-02,West,Grocery,Oil,New,788.66,9,101.27,13.47,60.7,3.6,Card
+603,2025-06-02,North,Sports,Cricket Bat,Corporate,1794.83,13,139.43,0.98,422.78,4.1,UPI
+604,2025-12-22,West,Sports,Cricket Bat,New,409.88,4,134.23,23.66,83.56,4.0,UPI
+605,2025-03-07,South,Sports,Tennis Racket,New,3430.37,11,331.51,5.93,714.84,3.9,Bank Transfer
+606,2025-04-15,East,Electronics,Monitor,VIP,6826.4,7,1016.68,4.08,1075.37,4.4,Cash
+607,2025-07-28,East,Clothing,Jeans,Returning,1341.28,7,208.07,7.91,459.8,2.8,Cash
+608,2025-02-23,East,Clothing,Shirt,VIP,806.07,13,79.21,21.72,181.71,3.6,Cash
+609,2025-06-26,East,Furniture,Cabinet,Corporate,824.27,2,499.62,17.51,180.74,4.5,Bank Transfer
+610,2025-11-24,South,Grocery,Oil,VIP,69.0,1,83.97,17.83,5.85,3.6,UPI
+611,2025-11-22,West,Furniture,Cabinet,Corporate,1157.02,3,423.12,8.85,198.58,4.2,Cash
+612,2025-09-10,East,Clothing,Shoes,New,302.87,11,33.68,18.25,48.91,3.6,Cash
+613,2025-12-26,South,Grocery,Oil,Corporate,385.64,8,64.23,24.95,50.18,3.8,UPI
+614,2025-01-27,North,Furniture,Cabinet,Corporate,1457.68,3,623.34,22.05,233.98,2.7,Bank Transfer
+615,2025-11-20,South,Grocery,Snacks,VIP,72.84,2,43.87,16.98,6.39,3.8,Bank Transfer
+616,2025-04-06,North,Furniture,Sofa,Corporate,7573.07,15,575.09,12.21,1747.83,3.8,Bank Transfer
+617,2025-07-11,North,Clothing,Shirt,Corporate,426.35,8,61.42,13.23,141.81,3.8,UPI
+618,2025-12-30,South,Clothing,Shoes,VIP,413.77,2,247.5,16.41,123.89,4.6,Card
+619,2025-10-09,East,Electronics,Smartphone,New,1622.64,3,664.47,18.6,378.35,3.7,Bank Transfer
+620,2025-12-14,West,Furniture,Sofa,Corporate,418.21,3,143.27,2.7,61.89,4.5,UPI
+621,2025-12-25,North,Grocery,Oil,Corporate,269.1,8,38.29,12.15,31.34,3.9,Card
+622,2025-07-25,West,Grocery,Coffee,New,904.81,12,89.0,15.28,62.73,2.4,Cash
+623,2025-09-19,South,Clothing,Jeans,Corporate,156.24,1,159.87,2.27,33.01,3.4,Bank Transfer
+624,2025-06-14,North,Electronics,Tablet,VIP,2775.84,6,507.17,8.78,419.35,4.5,Card
+625,2025-07-05,East,Clothing,Shoes,New,312.09,7,58.44,23.71,52.86,4.2,UPI
+626,2025-04-08,South,Furniture,Sofa,Corporate,1555.79,2,804.11,3.26,220.4,3.3,Card
+627,2025-10-14,North,Grocery,Rice,VIP,332.72,5,88.42,24.74,24.93,3.8,UPI
+628,2025-05-29,North,Clothing,Shoes,Corporate,223.29,2,128.46,13.09,40.95,5.0,Cash
+629,2025-04-05,South,Sports,Football,Corporate,1753.7,8,280.18,21.76,421.39,3.3,Cash
+630,2025-05-18,South,Furniture,Cabinet,New,10975.92,15,839.33,12.82,2740.73,4.1,Cash
+631,2025-10-01,North,Furniture,Desk,Returning,400.75,5,83.23,3.7,114.98,3.8,Cash
+632,2025-11-17,East,Electronics,Tablet,VIP,2221.82,2,1426.07,22.1,277.48,5.0,Cash
+633,2025-11-17,East,Clothing,Jeans,Returning,1053.25,5,243.33,13.43,322.4,3.0,Card
+634,2025-09-03,East,Grocery,Coffee,VIP,229.5,4,71.89,20.19,33.14,4.5,Cash
+635,2025-11-08,West,Grocery,Coffee,Returning,1389.54,14,104.17,4.72,73.28,4.1,Card
+636,2025-02-21,North,Electronics,Smartphone,Corporate,2509.16,4,747.93,16.13,372.42,4.4,Bank Transfer
+637,2025-02-24,North,Grocery,Rice,New,1001.27,13,100.51,23.37,172.24,3.8,UPI
+638,2025-11-18,South,Electronics,Smartphone,Corporate,10362.34,13,896.73,11.11,1116.38,3.7,Cash
+639,2025-12-17,North,Electronics,Laptop,VIP,1306.46,2,825.93,20.91,136.02,3.5,Bank Transfer
+640,2025-01-23,South,Electronics,Headphones,New,792.66,4,260.4,23.9,111.56,3.4,Card
+641,2025-05-16,East,Furniture,Bookshelf,Returning,3515.39,11,411.46,22.33,817.18,3.1,Cash
+642,2025-05-23,South,Electronics,Smartphone,VIP,1620.62,3,659.03,18.03,346.07,3.8,Card
+643,2025-05-06,South,Electronics,Tablet,Returning,7791.48,13,651.32,7.98,1184.71,4.1,Bank Transfer
+644,2025-04-23,West,Grocery,Oil,Corporate,565.44,9,66.66,5.75,85.36,2.8,Cash
+645,2025-05-31,North,Furniture,Sofa,Returning,777.9,14,64.58,13.96,222.29,4.7,Bank Transfer
+646,2025-08-06,West,Furniture,Cabinet,Returning,2972.4,4,753.65,1.4,871.42,2.8,UPI
+647,2025-08-29,North,Electronics,Laptop,Corporate,12635.07,14,939.62,3.95,1326.31,2.8,Card
+648,2025-03-30,West,Sports,Tennis Racket,Corporate,1430.98,12,148.19,19.53,151.37,4.4,Card
+649,2025-03-06,West,Electronics,Headphones,Corporate,9276.1,9,1101.74,6.45,1644.2,4.4,Card
+650,2025-11-25,North,Grocery,Oil,Returning,148.74,7,26.12,18.65,16.49,4.2,Bank Transfer
+651,2025-04-19,North,Grocery,Coffee,VIP,551.75,11,53.79,6.75,51.65,4.0,Cash
+652,2025-06-08,South,Clothing,Jeans,New,236.57,4,78.25,24.42,72.87,4.1,Cash
+653,2025-03-18,West,Clothing,Jacket,Returning,941.46,6,191.68,18.14,159.55,4.8,Cash
+654,2025-12-15,West,Sports,Basketball,New,336.99,5,81.26,17.06,46.78,4.6,Card
+655,2025-11-07,East,Furniture,Cabinet,Corporate,1947.11,13,161.52,7.27,563.15,4.0,Cash
+656,2025-08-21,West,Furniture,Cabinet,New,658.93,13,62.7,19.16,181.97,5.0,UPI
+657,2025-03-13,South,Furniture,Sofa,New,2461.73,5,540.03,8.83,610.31,3.9,Cash
+658,2025-06-10,North,Sports,Basketball,VIP,1620.24,14,128.92,10.23,344.19,3.0,UPI
+659,2025-05-29,West,Electronics,Headphones,VIP,16524.63,15,1328.24,17.06,3065.39,5.0,Bank Transfer
+660,2025-02-13,West,Furniture,Cabinet,New,1344.25,4,379.99,11.56,274.04,3.9,Card
+661,2025-08-29,West,Electronics,Headphones,Returning,3696.99,7,573.63,7.93,922.01,4.2,Card
+662,2025-12-17,North,Furniture,Sofa,Corporate,769.51,1,845.99,9.04,157.91,3.9,Bank Transfer
+663,2025-02-17,South,Clothing,Jacket,New,84.33,3,31.28,10.13,27.34,3.7,Bank Transfer
+664,2025-10-20,South,Clothing,Jacket,Returning,1247.41,6,236.36,12.04,428.01,5.0,Bank Transfer
+665,2025-08-23,South,Electronics,Monitor,New,10575.0,12,1041.79,15.41,1427.99,3.6,Card
+666,2025-02-19,North,Grocery,Tea,Corporate,324.11,5,64.88,0.09,35.14,4.2,Cash
+667,2025-09-15,West,Furniture,Desk,Returning,3386.5,10,370.92,8.7,998.73,5.0,Cash
+668,2025-04-01,West,Grocery,Snacks,Corporate,235.98,6,45.5,13.56,17.19,4.0,Card
+669,2025-02-15,West,Sports,Basketball,VIP,3144.57,14,270.65,17.01,370.62,4.9,Cash
+670,2025-08-04,North,Sports,Basketball,Corporate,2817.7,12,305.66,23.18,428.81,4.5,Card
+671,2025-07-11,West,Furniture,Bookshelf,New,2372.25,4,777.89,23.76,623.61,4.0,Card
+672,2025-03-20,East,Sports,Tennis Racket,VIP,1356.51,5,338.62,19.88,139.44,3.1,UPI
+673,2025-03-07,East,Sports,Sports Shoes,VIP,867.16,3,384.48,24.82,216.04,4.1,Bank Transfer
+674,2025-05-14,East,Furniture,Bookshelf,Returning,1418.19,7,246.32,17.75,200.4,2.9,Card
+675,2025-03-08,North,Clothing,Jeans,New,99.27,1,117.79,15.72,28.94,2.9,Bank Transfer
+676,2025-02-12,South,Clothing,Jeans,Returning,239.14,5,60.55,21.01,53.96,4.6,Card
+677,2025-02-21,North,Electronics,Monitor,New,10852.52,8,1399.53,3.07,1129.88,4.2,Bank Transfer
+678,2025-01-06,North,Electronics,Headphones,Corporate,2052.62,11,225.31,17.18,295.15,3.6,Card
+679,2025-01-12,North,Sports,Sports Shoes,New,2097.05,6,397.62,12.1,559.46,3.9,Card
+680,2025-06-28,North,Furniture,Sofa,Returning,310.38,1,328.41,5.49,89.75,4.0,UPI
+681,2025-04-16,West,Grocery,Snacks,Corporate,390.37,15,27.2,4.32,39.45,3.9,Bank Transfer
+682,2025-08-19,West,Grocery,Snacks,VIP,567.55,14,41.66,2.69,94.63,3.2,Card
+683,2025-05-06,East,Electronics,Monitor,Corporate,3721.44,5,953.36,21.93,898.97,3.4,Cash
+684,2025-04-30,East,Furniture,Sofa,Returning,4114.74,13,317.28,0.24,1024.67,4.0,Cash
+685,2025-06-13,South,Grocery,Tea,Returning,114.12,2,69.51,17.91,14.22,3.5,Card
+686,2025-05-26,West,Furniture,Chair,Corporate,797.82,1,891.72,10.53,120.32,3.1,Cash
+687,2025-06-04,West,Sports,Football,VIP,916.8,3,339.82,10.07,103.14,4.8,UPI
+688,2025-03-04,West,Clothing,Jacket,New,1554.27,9,197.03,12.35,539.01,4.5,UPI
+689,2025-10-03,North,Sports,Football,Returning,322.09,1,333.67,3.47,37.31,3.6,Cash
+690,2025-03-12,North,Electronics,Tablet,New,1400.23,1,1427.06,1.88,190.41,2.5,Bank Transfer
+691,2025-05-24,East,Electronics,Smartphone,Returning,9480.95,13,926.1,21.25,2201.77,3.0,UPI
+692,2025-02-09,North,Grocery,Coffee,VIP,497.4,13,39.07,2.07,72.41,3.9,Cash
+693,2025-06-09,South,Grocery,Rice,New,261.26,11,29.86,20.46,33.12,4.5,Bank Transfer
+694,2025-08-05,North,Furniture,Cabinet,Returning,2997.02,4,829.19,9.64,694.37,2.9,Card
+695,2025-10-09,North,Clothing,T-Shirt,Returning,1438.04,8,220.91,18.63,269.5,3.3,Cash
+696,2025-08-05,South,Clothing,Shoes,Returning,812.82,7,133.01,12.7,137.82,4.0,Card
+697,2025-10-22,West,Clothing,Jeans,Returning,677.12,10,79.84,15.19,108.32,4.9,UPI
+698,2025-09-11,North,Furniture,Chair,VIP,2641.01,4,800.21,17.49,503.69,4.8,Card
+699,2025-06-11,East,Furniture,Desk,VIP,5456.21,12,556.87,18.35,1148.99,4.2,Cash
+700,2025-01-05,East,Furniture,Desk,Corporate,2170.21,3,867.91,16.65,268.56,3.5,UPI
+701,2025-02-18,North,Grocery,Oil,Corporate,455.65,14,33.46,2.73,72.26,4.0,Cash
+702,2025-06-20,West,Clothing,Jacket,Corporate,1009.69,12,97.43,13.64,244.09,4.1,Bank Transfer
+703,2025-04-10,North,Electronics,Tablet,Returning,7609.97,7,1301.65,16.48,792.03,3.1,Bank Transfer
+704,2025-10-24,West,Electronics,Tablet,Returning,6281.21,5,1376.25,8.72,856.15,4.7,UPI
+705,2025-11-16,West,Sports,Football,Corporate,3110.57,10,387.9,19.81,572.15,4.9,Card
+706,2025-06-30,East,Clothing,Shoes,New,971.05,13,84.26,11.35,169.63,5.0,Cash
+707,2025-10-27,South,Electronics,Tablet,VIP,6017.5,15,510.91,21.48,1162.01,4.3,Cash
+708,2025-06-04,North,Clothing,Jeans,Corporate,1175.8,15,98.34,20.29,403.75,3.8,UPI
+709,2025-10-07,West,Furniture,Cabinet,VIP,5836.51,13,541.44,17.08,842.93,2.9,Card
+710,2025-07-30,North,Grocery,Snacks,Returning,463.04,9,55.82,7.83,48.9,3.4,Bank Transfer
+711,2025-07-21,North,Electronics,Monitor,Corporate,1968.4,2,1163.08,15.38,258.66,3.3,Card
+712,2025-09-04,West,Grocery,Rice,Corporate,155.34,14,11.25,1.37,9.73,3.6,UPI
+713,2025-01-04,North,Electronics,Laptop,Returning,2339.06,9,318.93,18.51,384.08,3.0,Bank Transfer
+714,2025-07-20,North,Sports,Cricket Bat,New,60.96,1,78.15,22.0,11.65,5.0,Cash
+715,2025-04-05,West,Electronics,Tablet,Corporate,2965.67,3,1251.97,21.04,512.89,2.9,Card
+716,2025-02-24,South,Furniture,Desk,Corporate,1976.31,8,296.53,16.69,412.52,4.2,Bank Transfer
+717,2025-03-13,South,Grocery,Snacks,New,247.19,5,57.56,14.11,41.06,5.0,Bank Transfer
+718,2025-03-19,North,Grocery,Tea,Returning,294.59,6,62.57,21.53,34.38,4.2,UPI
+719,2025-12-29,West,Sports,Tennis Racket,Returning,1329.5,5,318.29,16.46,363.3,3.5,UPI
+720,2025-04-29,East,Furniture,Sofa,Corporate,138.81,2,88.19,21.3,19.07,3.5,Card
+721,2025-06-14,West,Electronics,Smartphone,Corporate,2653.19,15,208.83,15.3,263.89,4.7,Cash
+722,2025-04-09,South,Grocery,Snacks,Returning,121.26,4,34.04,10.94,18.89,2.5,Cash
+723,2025-11-25,North,Sports,Football,Returning,254.6,1,327.8,22.33,33.95,3.6,Bank Transfer
+724,2025-02-10,West,Furniture,Desk,VIP,2971.7,6,575.71,13.97,392.53,2.3,Card
+725,2025-03-22,North,Sports,Tennis Racket,New,731.47,8,107.62,15.04,106.25,3.7,UPI
+726,2025-01-17,South,Electronics,Monitor,VIP,5885.71,7,973.73,13.65,1363.17,3.5,UPI
+727,2025-10-16,South,Grocery,Tea,VIP,1345.59,15,92.94,3.48,183.31,3.8,Cash
+728,2025-08-09,West,Clothing,Shirt,New,1655.37,15,144.58,23.67,260.09,4.1,Bank Transfer
+729,2025-12-23,North,Clothing,Jeans,New,156.89,1,196.8,20.28,44.93,4.9,Card
+730,2025-02-17,South,Grocery,Snacks,New,125.7,8,18.57,15.39,21.29,4.2,Cash
+731,2025-05-30,North,Furniture,Bookshelf,New,7383.07,14,661.85,20.32,1054.37,3.5,Card
+732,2025-04-23,West,Sports,Basketball,New,507.27,11,49.19,6.25,134.28,3.4,Bank Transfer
+733,2025-03-12,East,Clothing,Jacket,Returning,1862.37,9,224.85,7.97,408.47,3.5,Card
+734,2025-01-11,South,Clothing,T-Shirt,New,893.02,6,185.35,19.7,212.59,3.8,Bank Transfer
+735,2025-04-05,East,Electronics,Tablet,Corporate,6174.46,5,1261.51,2.11,786.91,4.3,Bank Transfer
+736,2025-10-30,East,Sports,Football,New,2135.89,9,309.94,23.43,314.52,3.9,Card
+737,2025-08-26,West,Electronics,Tablet,Corporate,11949.57,13,1126.33,18.39,1072.0,4.8,Bank Transfer
+738,2025-05-08,East,Sports,Sports Shoes,Returning,1039.84,7,197.59,24.82,155.34,2.5,UPI
+739,2025-04-02,West,Clothing,T-Shirt,New,741.11,10,79.45,6.72,225.53,3.1,Bank Transfer
+740,2025-11-09,West,Grocery,Rice,New,67.44,8,9.26,8.97,8.45,2.7,UPI
+741,2025-04-05,South,Electronics,Headphones,VIP,14656.85,13,1205.7,6.49,2405.74,3.9,Bank Transfer
+742,2025-01-23,North,Sports,Tennis Racket,Returning,287.0,1,381.65,24.8,56.62,4.8,Card
+743,2025-06-17,North,Clothing,Shirt,Corporate,254.19,2,135.09,5.92,79.95,4.1,UPI
+744,2025-06-10,East,Clothing,Shoes,Corporate,773.44,5,161.15,4.01,257.07,3.5,UPI
+745,2025-10-03,North,Furniture,Bookshelf,Returning,4094.29,7,698.22,16.23,1197.79,3.0,Cash
+746,2025-08-22,West,Sports,Football,Corporate,580.39,6,122.29,20.9,95.85,3.0,UPI
+747,2025-03-06,West,Electronics,Smartphone,Corporate,1186.51,6,229.97,14.01,110.34,4.0,Card
+748,2025-04-12,South,Grocery,Oil,VIP,455.1,13,37.99,7.85,56.83,5.0,Card
+749,2025-03-09,South,Grocery,Rice,New,212.79,7,35.29,13.86,11.58,3.0,Bank Transfer
+750,2025-01-24,South,Grocery,Tea,Corporate,681.11,12,69.05,17.8,86.43,1.8,Cash
+751,2025-01-04,West,Clothing,Shoes,Corporate,2350.94,12,211.18,7.23,438.9,4.1,UPI
+752,2025-09-26,East,Grocery,Snacks,Corporate,162.5,3,63.5,14.7,15.33,3.7,Bank Transfer
+753,2025-02-20,West,Clothing,Jacket,VIP,713.59,13,56.93,3.58,248.22,2.9,UPI
+754,2025-04-29,North,Clothing,Jeans,VIP,610.64,5,129.36,5.59,123.28,3.4,UPI
+755,2025-10-20,South,Furniture,Chair,Returning,553.1,1,558.63,0.99,119.93,3.4,Bank Transfer
+756,2025-03-12,South,Grocery,Oil,Corporate,453.83,5,110.57,17.91,51.79,4.2,UPI
+757,2025-01-20,North,Electronics,Tablet,Returning,2566.49,12,222.6,3.92,351.63,3.2,Bank Transfer
+758,2025-04-23,East,Electronics,Monitor,Returning,9853.86,14,890.27,20.94,1837.09,2.4,Card
+759,2025-09-09,South,Clothing,Shoes,Corporate,723.04,14,58.97,12.42,121.28,4.0,Card
+760,2025-04-29,West,Furniture,Chair,VIP,3187.55,10,373.25,14.6,660.34,4.5,UPI
+761,2025-03-01,West,Grocery,Snacks,VIP,529.71,9,60.31,2.41,46.27,3.3,Card
+762,2025-01-15,North,Grocery,Tea,VIP,589.86,12,50.78,3.2,75.58,4.7,UPI
+763,2025-04-23,South,Clothing,T-Shirt,Corporate,135.24,1,147.13,8.08,42.17,4.6,UPI
+764,2025-11-06,West,Electronics,Tablet,Corporate,3488.81,4,910.06,4.16,401.4,4.1,Cash
+765,2025-04-28,North,Electronics,Headphones,VIP,7358.12,15,606.73,19.15,668.04,4.2,UPI
+766,2025-09-06,East,Furniture,Sofa,Corporate,1950.66,4,520.01,6.22,530.94,3.2,Cash
+767,2025-02-13,East,Furniture,Sofa,New,1943.55,4,586.82,17.2,495.58,4.4,Cash
+768,2025-06-09,West,Electronics,Monitor,New,989.85,1,1144.86,13.54,233.83,2.5,UPI
+769,2025-05-26,North,Grocery,Oil,VIP,281.66,5,57.77,2.49,29.81,3.3,Card
+770,2025-09-02,West,Grocery,Rice,Corporate,456.91,6,92.71,17.86,68.65,4.1,Cash
+771,2025-04-30,South,Clothing,Jacket,New,278.38,2,146.81,5.19,46.43,2.5,Cash
+772,2025-10-15,West,Grocery,Tea,VIP,506.36,12,43.85,3.77,25.68,3.6,Bank Transfer
+773,2025-01-07,East,Sports,Basketball,Returning,1030.47,6,195.32,12.07,182.01,4.1,Card
+774,2025-10-08,South,Sports,Football,Returning,2724.37,8,350.5,2.84,341.03,4.0,Bank Transfer
+775,2025-12-17,East,Grocery,Rice,New,685.99,7,119.51,18.0,113.63,4.1,Card
+776,2025-08-31,East,Sports,Tennis Racket,Corporate,734.22,8,100.03,8.25,167.93,4.3,Cash
+777,2025-03-22,South,Clothing,Shoes,Returning,185.99,8,30.76,24.42,53.72,4.5,Cash
+778,2025-07-26,South,Clothing,T-Shirt,VIP,191.81,11,18.32,4.82,45.12,4.1,UPI
+779,2025-10-31,South,Sports,Sports Shoes,New,636.84,10,77.92,18.27,131.01,3.9,UPI
+780,2025-06-15,South,Sports,Basketball,Returning,239.12,1,317.68,24.73,61.56,3.2,Cash
+781,2025-06-12,West,Electronics,Smartphone,Corporate,7839.12,11,770.93,7.56,1639.95,3.0,Cash
+782,2025-11-30,South,Sports,Cricket Bat,VIP,794.15,12,74.3,10.93,208.03,4.9,UPI
+783,2025-01-06,East,Furniture,Chair,Corporate,6587.28,13,619.53,18.21,1454.23,4.3,Card
+784,2025-05-21,South,Grocery,Tea,New,397.34,10,40.69,2.35,51.21,4.8,Bank Transfer
+785,2025-11-28,East,Grocery,Rice,VIP,109.16,11,11.58,14.3,14.08,4.3,Cash
+786,2025-02-01,North,Electronics,Tablet,Returning,10663.84,12,1135.95,21.77,1091.77,4.8,UPI
+787,2025-09-22,East,Electronics,Monitor,Returning,10595.94,11,967.33,0.42,2355.86,2.4,Cash
+788,2025-09-16,North,Grocery,Snacks,New,349.42,4,99.88,12.54,29.99,2.9,Bank Transfer
+789,2025-04-06,East,Furniture,Chair,VIP,2865.19,9,348.08,8.54,702.92,4.8,UPI
+790,2025-04-08,South,Sports,Football,New,928.86,4,262.42,11.51,250.49,4.4,Card
+791,2025-02-17,West,Clothing,Shirt,VIP,207.53,3,80.56,14.13,42.45,3.8,Bank Transfer
+792,2025-10-03,East,Clothing,T-Shirt,VIP,1913.48,13,165.83,11.24,301.08,4.6,Card
+793,2025-03-01,East,Grocery,Tea,Returning,448.2,6,85.46,12.59,67.47,3.6,Card
+794,2025-03-23,West,Grocery,Coffee,VIP,350.02,6,69.83,16.46,33.83,3.8,Bank Transfer
+795,2025-07-24,East,Grocery,Tea,New,304.75,3,110.01,7.66,47.3,3.1,Bank Transfer
+796,2025-08-04,East,Furniture,Sofa,VIP,4638.1,8,626.77,7.5,1289.1,3.5,Bank Transfer
+797,2025-06-20,West,Clothing,T-Shirt,New,312.46,3,135.37,23.06,105.79,3.8,Cash
+798,2025-04-15,South,Electronics,Tablet,VIP,4718.07,8,666.47,11.51,905.7,3.4,Bank Transfer
+799,2025-02-19,South,Electronics,Smartphone,VIP,711.6,1,778.73,8.62,113.88,4.3,Bank Transfer
+800,2025-12-09,South,Furniture,Sofa,Corporate,3962.71,13,328.05,7.08,1098.0,2.8,Cash
+801,2025-06-04,South,Furniture,Cabinet,Returning,1878.33,6,357.94,12.54,427.98,3.6,Bank Transfer
+802,2025-07-23,West,Electronics,Tablet,Returning,2117.56,7,328.03,7.78,412.49,3.8,Cash
+803,2025-07-25,East,Grocery,Rice,New,915.75,11,104.18,20.09,91.5,2.0,Bank Transfer
+804,2025-10-01,West,Electronics,Tablet,VIP,10139.07,12,995.08,15.09,2194.21,4.0,UPI
+805,2025-01-25,West,Electronics,Smartphone,Corporate,14162.24,14,1051.11,3.76,1944.61,3.7,Bank Transfer
+806,2025-10-05,North,Clothing,Shirt,Corporate,630.06,8,101.27,22.23,137.03,3.0,UPI
+807,2025-03-06,East,Furniture,Sofa,Corporate,397.78,1,429.75,7.44,55.73,4.2,Card
+808,2025-02-09,East,Grocery,Snacks,VIP,632.74,8,84.23,6.1,74.7,4.6,UPI
+809,2025-02-10,South,Clothing,Shirt,New,776.37,7,135.47,18.13,163.35,3.8,Bank Transfer
+810,2025-08-12,East,Electronics,Smartphone,VIP,6522.17,10,829.37,21.36,792.04,2.7,UPI
+811,2025-11-22,North,Furniture,Sofa,Corporate,2843.1,15,204.07,7.12,447.18,2.6,UPI
+812,2025-06-18,South,Electronics,Smartphone,New,6707.15,12,567.96,1.59,864.76,4.1,Bank Transfer
+813,2025-12-05,North,Grocery,Oil,VIP,199.02,6,41.76,20.57,23.72,3.3,Cash
+814,2025-10-27,East,Grocery,Oil,New,315.88,4,91.02,13.24,34.99,4.3,Card
+815,2025-02-19,West,Sports,Tennis Racket,Corporate,284.29,13,28.9,24.33,35.17,2.7,Bank Transfer
+816,2025-11-03,North,Furniture,Desk,VIP,1903.93,3,785.16,19.17,563.95,3.0,UPI
+817,2025-05-28,North,Clothing,Jacket,VIP,1143.58,9,140.87,9.8,277.64,4.2,Cash
+818,2025-03-12,West,Sports,Tennis Racket,Returning,3628.08,11,364.77,9.58,766.97,3.6,Cash
+819,2025-09-19,West,Sports,Sports Shoes,New,1447.55,6,251.73,4.16,301.44,4.0,Card
+820,2025-08-24,East,Furniture,Bookshelf,Returning,1112.73,3,451.34,17.82,160.1,3.1,Card
+821,2025-01-17,South,Sports,Basketball,Returning,1633.92,8,210.08,2.78,299.33,3.9,Bank Transfer
+822,2025-01-13,West,Sports,Basketball,New,2169.55,13,178.49,6.5,425.56,3.8,Bank Transfer
+823,2025-05-15,East,Grocery,Rice,Corporate,1126.06,14,99.57,19.22,151.4,4.1,Cash
+824,2025-09-09,West,Furniture,Sofa,VIP,1985.2,3,826.03,19.89,272.93,4.1,Card
+825,2025-07-05,East,Clothing,Jacket,Corporate,990.27,6,200.03,17.49,299.32,3.9,UPI
+826,2025-11-23,East,Clothing,Jeans,Corporate,1315.75,12,118.37,7.37,235.92,4.5,Card
+827,2025-10-28,East,Electronics,Smartphone,Returning,1242.15,10,136.65,9.1,206.77,4.8,UPI
+828,2025-06-08,West,Sports,Tennis Racket,Corporate,805.26,11,84.27,13.13,130.15,3.6,Card
+829,2025-04-14,East,Furniture,Desk,New,2093.19,11,217.4,12.47,491.8,4.2,UPI
+830,2025-10-18,North,Electronics,Headphones,VIP,1649.78,9,212.73,13.83,281.96,2.3,Card
+831,2025-03-09,South,Furniture,Sofa,Returning,2254.66,4,636.19,11.4,517.77,3.9,UPI
+832,2025-09-02,South,Electronics,Smartphone,Returning,10314.05,10,1171.12,11.93,997.43,3.6,Cash
+833,2025-04-10,West,Grocery,Rice,Returning,127.5,2,67.37,5.37,20.65,4.7,Bank Transfer
+834,2025-06-24,West,Electronics,Tablet,VIP,7276.02,8,990.96,8.22,1179.86,3.0,UPI
+835,2025-06-05,East,Sports,Sports Shoes,Corporate,597.67,2,391.35,23.64,77.32,4.5,Cash
+836,2025-11-09,South,Grocery,Tea,Returning,214.3,13,17.5,5.8,23.86,4.1,Card
+837,2025-05-18,East,Sports,Cricket Bat,Returning,1000.29,4,311.23,19.65,276.69,3.1,Card
+838,2025-01-03,East,Clothing,Shoes,VIP,213.48,3,86.96,18.17,45.17,2.8,Bank Transfer
+839,2025-06-16,East,Electronics,Headphones,Returning,9382.04,8,1178.53,0.49,1873.95,3.3,Card
+840,2025-12-04,West,Furniture,Cabinet,VIP,217.44,2,113.26,4.01,62.94,4.9,Bank Transfer
+841,2025-07-31,East,Grocery,Coffee,Corporate,14.0,1,16.67,15.99,0.9,3.8,Card
+842,2025-01-12,East,Furniture,Cabinet,Returning,1054.35,9,124.8,6.13,271.29,3.2,Card
+843,2025-01-12,East,Electronics,Tablet,Corporate,15348.68,12,1340.73,4.6,2449.89,3.8,Card
+844,2025-01-17,West,Electronics,Headphones,Corporate,10161.79,13,791.17,1.2,1725.75,5.0,UPI
+845,2025-08-28,East,Sports,Basketball,VIP,491.04,11,45.5,1.89,94.49,4.3,Card
+846,2025-12-21,East,Electronics,Headphones,Corporate,8098.95,8,1347.31,24.86,857.48,3.1,Bank Transfer
+847,2025-12-07,East,Electronics,Headphones,New,12570.14,10,1262.95,0.47,1486.91,3.4,Card
+848,2025-06-28,South,Sports,Tennis Racket,Returning,916.02,13,76.35,7.71,112.6,4.5,Cash
+849,2025-07-12,South,Clothing,Jacket,Returning,308.18,4,86.19,10.61,59.62,4.4,Cash
+850,2025-10-24,West,Grocery,Coffee,New,421.4,8,55.43,4.97,74.17,3.4,Cash
+851,2025-08-22,North,Furniture,Desk,Corporate,5500.85,12,564.12,18.74,849.2,3.8,Cash
+852,2025-12-26,West,Electronics,Headphones,Corporate,3287.71,14,258.09,9.01,436.27,4.1,Cash
+853,2025-02-01,North,Grocery,Snacks,VIP,876.37,12,79.45,8.08,58.4,3.4,Card
+854,2025-02-26,West,Clothing,Jacket,Returning,297.66,7,55.52,23.41,92.89,2.7,Card
+855,2025-07-28,South,Electronics,Headphones,VIP,5317.26,7,982.93,22.72,665.09,5.0,Cash
+856,2025-10-02,South,Sports,Basketball,Returning,39.84,2,25.68,22.43,11.04,4.1,Bank Transfer
+857,2025-10-20,North,Furniture,Cabinet,VIP,2781.66,8,449.06,22.57,662.45,2.6,Card
+858,2025-12-04,South,Furniture,Desk,Returning,1987.72,4,610.33,18.58,339.53,4.0,UPI
+859,2025-04-04,East,Clothing,Shoes,Returning,571.79,6,114.17,16.53,89.68,4.2,Cash
+860,2025-08-20,South,Furniture,Chair,Returning,1944.58,7,324.15,14.3,353.72,3.9,Card
+861,2025-08-22,East,Grocery,Oil,Corporate,151.62,2,90.67,16.39,11.25,4.6,Cash
+862,2025-10-09,East,Clothing,T-Shirt,New,1100.71,13,100.87,16.06,215.11,2.9,UPI
+863,2025-12-15,East,Furniture,Sofa,Corporate,2786.57,7,520.3,23.49,821.77,3.4,Card
+864,2025-07-11,East,Electronics,Smartphone,Returning,11351.3,10,1306.7,13.13,2452.38,3.8,Card
+865,2025-09-01,South,Electronics,Smartphone,Returning,10834.01,9,1420.22,15.24,2447.51,5.0,Bank Transfer
+866,2025-07-30,East,Clothing,Jeans,New,127.55,2,74.06,13.89,34.77,2.7,Card
+867,2025-03-05,South,Furniture,Bookshelf,Returning,4216.47,7,718.37,16.15,652.74,3.6,Card
+868,2025-08-13,South,Furniture,Bookshelf,VIP,3589.0,13,328.35,15.92,769.35,5.0,UPI
+869,2025-08-07,West,Electronics,Monitor,Returning,2165.97,2,1334.71,18.86,438.39,3.8,Card
+870,2025-08-10,South,Grocery,Tea,New,203.33,2,119.72,15.08,27.74,4.8,Bank Transfer
+871,2025-09-11,East,Electronics,Laptop,VIP,6119.42,15,467.31,12.7,926.11,4.0,Card
+872,2025-01-22,East,Sports,Basketball,New,3812.05,13,333.98,12.2,839.26,3.3,Cash
+873,2025-08-24,North,Sports,Football,New,1230.1,13,110.67,14.5,131.84,3.3,Cash
+874,2025-05-10,North,Grocery,Snacks,Returning,217.17,10,25.78,15.76,11.66,3.2,UPI
+875,2025-07-25,South,Clothing,Jacket,VIP,1464.14,8,199.17,8.11,444.69,4.5,UPI
+876,2025-11-24,North,Furniture,Bookshelf,VIP,2806.57,6,573.94,18.5,451.75,3.0,Bank Transfer
+877,2025-02-27,West,Clothing,T-Shirt,Returning,1273.79,13,104.93,6.62,396.38,4.4,Card
+878,2025-03-16,East,Sports,Tennis Racket,Returning,1751.22,7,255.02,1.9,443.75,3.6,UPI
+879,2025-01-21,West,Sports,Tennis Racket,Returning,1968.48,15,166.39,21.13,540.81,3.6,Card
+880,2025-06-01,East,Sports,Cricket Bat,New,695.99,8,105.3,17.38,87.81,4.2,Card
+881,2025-05-14,West,Electronics,Monitor,Corporate,4663.02,7,887.72,24.96,525.43,4.4,UPI
+882,2025-12-26,East,Clothing,Shoes,VIP,3282.64,15,232.49,5.87,947.5,3.4,Card
+883,2025-10-11,South,Sports,Sports Shoes,New,4164.69,15,318.0,12.69,956.29,3.6,Card
+884,2025-06-27,North,Grocery,Tea,Corporate,471.78,10,55.36,14.78,51.09,2.8,Bank Transfer
+885,2025-12-05,East,Furniture,Chair,New,3200.94,12,284.68,6.3,400.0,4.3,Bank Transfer
+886,2025-01-04,East,Clothing,T-Shirt,VIP,465.23,4,148.92,21.9,119.99,4.3,Cash
+887,2025-09-11,North,Clothing,T-Shirt,New,268.53,10,29.95,10.34,92.9,3.9,Cash
+888,2025-06-09,North,Clothing,Shirt,Corporate,1489.34,10,179.72,17.13,364.71,3.7,UPI
+889,2025-11-07,East,Furniture,Bookshelf,Corporate,372.22,2,206.88,10.04,110.7,3.7,Cash
+890,2025-07-11,East,Sports,Football,New,46.71,3,20.66,24.63,9.45,3.8,Cash
+891,2025-04-01,West,Furniture,Desk,Returning,1937.57,9,235.62,8.63,550.79,3.4,Card
+892,2025-04-09,North,Grocery,Rice,New,1119.97,13,112.44,23.38,80.37,2.4,Card
+893,2025-07-03,West,Sports,Tennis Racket,Corporate,2400.9,13,190.22,2.91,593.42,4.1,Cash
+894,2025-05-25,North,Grocery,Oil,New,681.91,11,80.3,22.8,101.2,4.5,UPI
+895,2025-05-28,South,Furniture,Bookshelf,VIP,4042.55,11,412.37,10.88,502.45,3.0,Cash
+896,2025-06-05,South,Sports,Football,New,1459.33,5,359.0,18.7,153.28,5.0,Bank Transfer
+897,2025-06-13,North,Furniture,Sofa,Corporate,4557.19,12,482.12,21.23,1105.59,4.0,Cash
+898,2025-06-19,South,Furniture,Bookshelf,New,790.83,1,833.77,5.15,226.47,4.3,Card
+899,2025-12-01,East,Grocery,Coffee,Corporate,19.5,1,22.93,14.97,2.7,4.3,UPI
+900,2025-12-23,West,Grocery,Rice,Corporate,200.54,7,36.98,22.53,26.36,3.5,Bank Transfer
+901,2025-05-26,North,Furniture,Desk,New,296.96,2,185.09,19.78,64.34,3.6,UPI
+902,2025-01-19,East,Clothing,T-Shirt,New,444.63,13,43.06,20.57,116.03,2.7,Bank Transfer
+903,2025-01-22,North,Grocery,Rice,Returning,96.16,1,100.81,4.61,12.5,4.4,Card
+904,2025-03-20,North,Furniture,Sofa,New,777.99,3,340.15,23.76,142.39,4.5,UPI
+905,2025-06-12,South,Sports,Football,Returning,862.53,11,93.85,16.45,168.31,3.4,Cash
+906,2025-01-02,West,Electronics,Laptop,New,9125.87,10,1114.27,18.1,1229.09,3.7,Cash
+907,2025-08-19,North,Grocery,Oil,Returning,862.75,13,77.25,14.09,148.25,3.6,Card
+908,2025-03-31,East,Grocery,Oil,VIP,485.56,11,57.32,22.99,33.39,4.7,Bank Transfer
+909,2025-07-27,East,Clothing,Jeans,New,1378.48,7,204.28,3.6,356.06,4.2,Bank Transfer
+910,2025-10-19,West,Grocery,Snacks,Corporate,373.62,7,58.3,8.45,30.63,3.2,Card
+911,2025-01-27,West,Sports,Tennis Racket,Corporate,1503.5,6,264.72,5.34,375.75,4.0,Card
+912,2025-12-15,South,Furniture,Sofa,Corporate,7016.8,15,489.88,4.51,1718.52,2.8,Card
+913,2025-01-19,South,Grocery,Oil,Returning,272.01,7,41.4,6.14,35.18,2.8,Cash
+914,2025-04-20,North,Electronics,Laptop,New,19389.14,15,1309.9,1.32,4361.43,3.6,UPI
+915,2025-07-29,East,Electronics,Tablet,Corporate,4492.61,8,587.3,4.38,591.01,4.9,Card
+916,2025-07-15,West,Sports,Sports Shoes,VIP,3851.02,12,342.24,6.23,412.4,4.8,Bank Transfer
+917,2025-06-23,South,Grocery,Snacks,New,669.25,10,84.13,20.45,111.24,4.7,Cash
+918,2025-06-14,South,Clothing,Shirt,Returning,771.05,10,85.52,9.84,237.63,3.5,UPI
+919,2025-03-27,West,Electronics,Tablet,New,12087.47,10,1349.65,10.44,1314.39,4.5,Cash
+920,2025-11-16,East,Furniture,Sofa,Corporate,2197.4,7,336.89,6.82,523.43,3.4,Cash
+921,2025-07-28,East,Sports,Football,Corporate,1316.67,4,363.72,9.5,322.01,4.5,UPI
+922,2025-02-28,East,Furniture,Sofa,Returning,2266.97,8,289.39,2.08,546.17,2.8,Cash
+923,2025-11-13,South,Furniture,Chair,New,1059.71,3,367.38,3.85,275.73,4.3,Cash
+924,2025-02-16,West,Furniture,Cabinet,VIP,6773.17,13,615.2,15.31,981.9,2.5,Cash
+925,2025-12-13,South,Grocery,Coffee,New,155.98,12,14.13,8.01,27.83,4.0,Cash
+926,2025-04-07,North,Grocery,Coffee,New,327.99,3,117.03,6.58,21.69,4.3,Card
+927,2025-12-16,South,Clothing,Jeans,Corporate,2153.57,11,211.47,7.42,417.04,3.8,UPI
+928,2025-08-17,North,Clothing,Jeans,New,202.98,2,131.07,22.57,47.91,3.9,Cash
+929,2025-04-08,East,Electronics,Tablet,New,3809.55,10,482.16,20.99,596.7,2.8,Card
+930,2025-08-20,North,Sports,Cricket Bat,VIP,1217.88,7,196.68,11.54,318.88,5.0,Card
+931,2025-10-31,West,Furniture,Bookshelf,New,2172.43,14,168.52,7.92,507.9,3.6,Card
+932,2025-04-27,North,Furniture,Chair,Corporate,1299.63,8,177.41,8.43,247.71,3.4,Card
+933,2025-05-01,West,Grocery,Oil,Corporate,765.68,7,113.94,4.0,44.94,3.2,Bank Transfer
+934,2025-06-24,West,Furniture,Bookshelf,New,2685.69,5,586.78,8.46,621.27,3.9,UPI
+935,2025-05-24,West,Furniture,Sofa,New,385.17,1,430.02,10.43,68.84,5.0,UPI
+936,2025-10-16,South,Sports,Tennis Racket,Returning,1629.88,6,317.01,14.31,236.07,2.9,Bank Transfer
+937,2025-04-09,North,Electronics,Tablet,Corporate,3882.08,13,324.73,8.04,659.84,4.4,UPI
+938,2025-09-06,North,Furniture,Sofa,Corporate,958.55,4,239.83,0.08,222.11,4.1,UPI
+939,2025-01-06,South,Sports,Sports Shoes,Returning,3594.64,15,247.08,3.01,542.22,4.0,UPI
+940,2025-07-15,South,Clothing,Jeans,VIP,18.27,1,21.77,16.1,5.58,3.1,Card
+941,2025-10-10,East,Sports,Basketball,New,1730.96,15,123.95,6.9,470.99,4.8,Bank Transfer
+942,2025-06-15,East,Clothing,Jeans,Corporate,168.31,9,20.98,10.86,45.88,4.8,Cash
+943,2025-06-25,South,Sports,Football,Corporate,718.42,2,372.24,3.5,118.44,3.6,Cash
+944,2025-05-14,North,Grocery,Snacks,Corporate,871.04,11,95.82,17.36,61.56,4.0,Card
+945,2025-11-21,North,Furniture,Chair,New,7955.55,11,766.46,5.64,1268.28,3.2,Bank Transfer
+946,2025-01-04,East,Electronics,Monitor,Corporate,862.12,1,1044.11,17.43,149.58,3.8,UPI
+947,2025-11-08,East,Electronics,Monitor,Returning,2507.14,7,413.63,13.41,590.64,4.1,UPI
+948,2025-04-05,East,Clothing,Jeans,VIP,279.54,7,43.0,7.13,78.35,4.2,Cash
+949,2025-04-28,North,Electronics,Headphones,Returning,3814.35,4,1168.47,18.39,498.78,2.8,UPI
+950,2025-07-20,North,Furniture,Cabinet,VIP,223.39,1,233.96,4.52,46.9,4.0,Card
+951,2025-10-18,East,Grocery,Snacks,Returning,118.21,2,75.88,22.11,20.46,3.6,Card
+952,2025-03-03,East,Electronics,Laptop,Returning,3770.02,11,383.28,10.58,863.32,4.4,UPI
+953,2025-10-24,West,Furniture,Sofa,Returning,1353.52,2,831.5,18.61,169.82,4.2,UPI
+954,2025-03-31,West,Clothing,Shirt,New,2015.99,12,177.57,5.39,317.38,4.1,Cash
+955,2025-11-29,North,Sports,Football,VIP,1341.42,12,127.0,11.98,190.84,3.8,Cash
+956,2025-12-04,West,Sports,Basketball,Returning,4060.43,12,342.41,1.18,525.83,3.8,UPI
+957,2025-12-12,South,Sports,Sports Shoes,VIP,2834.07,12,262.94,10.18,358.72,3.1,Bank Transfer
+958,2025-06-25,North,Clothing,Shoes,VIP,546.04,15,47.35,23.12,140.79,2.5,Card
+959,2025-05-11,South,Sports,Tennis Racket,Returning,3568.12,14,321.07,20.62,706.2,2.9,Card
+960,2025-07-28,West,Furniture,Sofa,New,3229.21,6,672.08,19.92,617.08,3.7,Cash
+961,2025-04-18,South,Furniture,Bookshelf,Returning,485.87,12,50.51,19.84,67.73,3.8,Cash
+962,2025-07-03,North,Furniture,Chair,New,729.07,5,152.91,4.64,96.85,4.5,Bank Transfer
+963,2025-06-29,East,Electronics,Monitor,VIP,4123.02,7,637.38,7.59,763.89,4.6,Cash
+964,2025-09-07,West,Clothing,Shoes,New,1045.77,7,176.82,15.51,259.42,3.7,Cash
+965,2025-12-27,North,Grocery,Tea,New,289.98,4,88.29,17.89,23.6,4.4,Bank Transfer
+966,2025-05-21,West,Furniture,Cabinet,New,537.57,1,631.25,14.84,67.24,3.9,Bank Transfer
+967,2025-02-09,East,Sports,Football,New,2483.38,12,216.36,4.35,439.09,3.1,Card
+968,2025-12-16,South,Grocery,Snacks,New,526.45,7,94.21,20.17,38.82,2.1,Bank Transfer
+969,2025-12-22,North,Furniture,Bookshelf,New,411.49,3,168.32,18.51,91.06,4.6,UPI
+970,2025-07-25,West,Sports,Football,Corporate,108.43,1,125.98,13.93,17.82,3.9,Card
+971,2025-07-31,North,Furniture,Chair,Returning,891.93,2,534.86,16.62,267.02,3.9,Cash
+972,2025-05-17,South,Sports,Football,Returning,327.26,3,134.13,18.67,63.63,3.4,Cash
+973,2025-02-06,East,Clothing,Jeans,Returning,1694.85,14,127.89,5.34,326.81,2.8,Card
+974,2025-04-26,South,Furniture,Cabinet,New,2930.73,8,486.38,24.68,482.02,2.8,UPI
+975,2025-09-03,West,Grocery,Rice,New,528.2,14,41.86,9.87,57.3,4.0,Bank Transfer
+976,2025-01-21,East,Furniture,Desk,Corporate,1257.49,13,113.8,15.0,278.04,5.0,UPI
+977,2025-12-19,East,Clothing,Shoes,Corporate,1734.54,11,204.6,22.93,373.65,3.1,Card
+978,2025-04-27,North,Grocery,Tea,Corporate,336.3,6,66.26,15.41,55.06,3.8,UPI
+979,2025-12-19,South,Clothing,Jeans,VIP,275.26,5,60.08,8.37,74.2,2.9,UPI
+980,2025-11-21,East,Furniture,Sofa,Returning,5013.61,13,443.29,13.0,1253.87,3.0,UPI
+981,2025-07-21,East,Furniture,Bookshelf,Returning,3013.04,7,461.69,6.77,653.03,5.0,Cash
+982,2025-11-18,East,Electronics,Smartphone,Corporate,9726.47,8,1409.96,13.77,2135.9,3.5,Bank Transfer
+983,2025-03-07,West,Sports,Football,Corporate,938.97,7,138.99,3.49,105.78,4.5,Cash
+984,2025-05-17,North,Grocery,Coffee,New,13.46,1,17.81,24.42,1.06,4.3,UPI
+985,2025-05-19,North,Furniture,Desk,VIP,2459.34,13,236.89,20.14,385.05,3.7,Bank Transfer
+986,2025-08-11,South,Electronics,Laptop,Corporate,1539.21,4,453.99,15.24,356.51,1.9,Bank Transfer
+987,2025-12-11,South,Grocery,Coffee,New,166.04,14,14.43,17.81,21.58,3.3,Bank Transfer
+988,2025-12-24,East,Grocery,Oil,VIP,52.79,1,62.39,15.39,7.47,3.7,Bank Transfer
+989,2025-11-27,South,Furniture,Bookshelf,Returning,1957.71,6,350.28,6.85,551.53,3.4,Cash
+990,2025-07-07,West,Grocery,Rice,VIP,256.93,6,48.81,12.27,21.36,3.0,UPI
+991,2025-03-23,South,Grocery,Coffee,Returning,881.69,14,72.33,12.93,87.81,3.9,Cash
+992,2025-07-29,North,Sports,Sports Shoes,VIP,411.18,2,219.6,6.38,54.89,4.9,UPI
+993,2025-03-27,North,Furniture,Cabinet,Returning,1774.65,14,128.43,1.3,463.48,2.2,Card
+994,2025-03-20,North,Electronics,Smartphone,New,2690.29,13,260.08,20.43,296.97,3.3,Card
+995,2025-11-08,East,Furniture,Chair,Returning,2915.42,13,281.49,20.33,819.44,4.1,UPI
+996,2025-01-01,West,Sports,Tennis Racket,Returning,673.44,8,86.56,2.75,113.1,3.4,UPI
+997,2025-05-09,West,Grocery,Oil,Corporate,544.28,9,67.27,10.1,52.26,3.6,Bank Transfer
+998,2025-06-03,West,Furniture,Cabinet,Returning,1032.99,13,80.95,1.84,280.51,2.7,UPI
+999,2025-05-06,West,Electronics,Tablet,Returning,1646.59,13,142.14,10.89,310.44,3.4,Card
+1000,2025-03-16,West,Electronics,Smartphone,VIP,4411.09,8,670.95,17.82,631.52,3.3,Cash

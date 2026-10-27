@@ -1,0 +1,130 @@
+INTELLIGENT INFORMATION FLOW
+RUN SCRIPT
+============================================================
+
+1. INSTALL UV (FILE MANAGER)
+------------------------------------------------------------
+
+Install uv:
+
+pip install uv
+
+Check uv version:
+
+uv --version
+
+
+2. INSTALL PROJECT DEPENDENCIES
+------------------------------------------------------------
+
+From the project root folder:
+
+uv sync
+
+
+3. GOOGLE GEMINI
+Set the Gemini API key before starting the backend:
+$env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
+The AI Business Analyst uses gemini-2.5-flash.
+
+
+4. START FASTAPI BACKEND
+------------------------------------------------------------
+
+Open a terminal in the project root.
+
+Go to the backend folder:
+
+cd CODE\BACKEND
+
+Start FastAPI:
+
+uv run uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+FastAPI URL:
+
+http://127.0.0.1:8000
+
+FastAPI Swagger:
+
+http://127.0.0.1:8000/docs
+
+FastAPI Health Check:
+
+http://127.0.0.1:8000/health
+
+
+5. START FLASK FRONTEND
+------------------------------------------------------------
+
+Open a SECOND terminal in the project root.
+
+Start Flask:
+
+uv run flask --app CODE/FRONTEND/app.py run --host 127.0.0.1 --port 5000 --debug
+
+Flask URL:
+
+http://127.0.0.1:5000
+
+
+6. APPLICATION STARTUP ORDER
+------------------------------------------------------------
+
+Terminal 1:
+    Google Gemini
+    gemini-2.5-flash
+
+Terminal 2:
+    FastAPI Backend
+    cd CODE\BACKEND
+    uv run uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+Terminal 3:
+    Flask Frontend
+    uv run flask --app CODE/FRONTEND/app.py run --host 127.0.0.1 --port 5000 --debug
+
+
+7. OPEN THE APPLICATION
+------------------------------------------------------------
+
+Open the following URL in the browser:
+
+http://127.0.0.1:5000
+
+
+8. BASIC WORKFLOW
+------------------------------------------------------------
+
+Login / Register
+        ↓
+Upload CSV Dataset
+        ↓
+Dataset Profile
+        ↓
+Statistics
+        ↓
+Categorical Analysis
+        ↓
+Correlation
+        ↓
+Forecasting
+        ↓
+Segmentation
+        ↓
+Anomaly Detection
+        ↓
+AI Business Analyst using Gemini 2.5 Flash
+
+
+9. IMPORTANT
+------------------------------------------------------------
+
+Do not close the FastAPI terminal while using the application.
+
+Do not close the Flask terminal while using the application.
+
+Keep the Gemini API key configured for AI features.
+
+The project uses runtime-uploaded CSV datasets and does not require
+a preloaded dataset.

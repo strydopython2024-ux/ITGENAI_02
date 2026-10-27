@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="ai-page">
+  <div class="ai-hero card">
+    <div>
+      <div class="ai-eyebrow">GEMINI POWERED</div>
+      <h2 class="ai-title">AI Business Analyst</h2>
+      <p class="ai-subtitle">
+        Ask questions about your currently uploaded CSV and get data-grounded answers
+        from Gemini 2.5 Flash.
+      </p>
+    </div>
+    <div class="ai-status">
+      <span class="ai-status-dot" id="ai-status-dot"></span>
+      <span id="ai-status-text">Checking AI...</span>
+    </div>
+  </div>
+
+  {% if not profile or not profile.get('success') or not profile.get('dataset', {}).get('rows') %}
+  <div class="card ai-empty">
+    <h3>No dataset available</h3>
+    <p>Upload a CSV file first. The chatbot will automatically use the active dataset.</p>
+    <a class="btn-primary" href="{{ url_for('upload') }}">Upload CSV</a>
+  </div>
+  {% else %}
+  <div class="ai-layout">
+    <section class="card ai-chat-card">
+      <div class="ai-chat-header">
+        <div>
+          <h3 class="section-title">Conversation</h3>
+          <p class="ai-context-line">
+            {{ profile.dataset.rows }} rows · {{ profile.dataset.columns }} columns
+          </p>
+        </div>
+        <button type="button" class="ai-clear-btn" id="clear-chat">Clear chat</button>
+      </div>
+
+      <div class="ai-suggestions" id="ai-suggestions">
+        <button type="button" class="ai-suggestion">Summarize this dataset</button>
+        <button type="button" class="ai-suggestion">What are the key business trends?</button>
+        <button type="button" class="ai-suggestion">What potential risks do you see?</button>
+        <button type="button" class="ai-suggestion">What actions should the business take?</button>
+      </div>
+
+      <div class="ai-messages" id="ai-messages" aria-live="polite">
+        <div class="ai-message assistant">
+          <div class="ai-avatar">AI</div>
+          <div class="ai-bubble">
+            <div class="ai-message-label">Gemini Business Analyst</div>
+            <div>
+              Hello. I’m ready to analyze your active dataset. Ask me about trends,
+              patterns, risks, comparisons, or recommendations.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <form id="ai-chat-form" class="ai-composer">
+        <textarea
+          id="ai-question"
+          name="question"
+          rows="1"
+          maxlength="4000"
+          placeholder="Ask something about your dataset..."
+          autocomplete="off"
+          required
+        ></textarea>
+        <button type="submit" id="ai-send" class="ai-send-btn" aria-label="Send message">
+          <span id="ai-send-label">Send</span>
+        </button>
+      </form>
+      <div class="ai-disclaimer">
+        Answers are generated from the computed summary of the active dataset.
+        Gemini will not receive the raw CSV file.
+      </div>
+    </section>
+
+    <aside class="card ai-dataset-card">
+      <h3 class="section-title">Current Dataset</h3>
+      <div class="ai-stat-grid">
+        <div><strong>{{ profile.dataset.rows }}</strong><span>Rows</span></div>
+        <div><strong>{{ profile.dataset.columns }}</strong><span>Columns</span></div>
+        <div><strong>{{ profile.dataset.missing_values }}</strong><span>Missing</span></div>
+        <div><strong>{{ profile.dataset.duplicate_rows }}</strong><span>Duplicates</span></div>
+      </div>
+
+      <h4 class="ai-side-title">Columns</h4>
+      <div class="ai-column-list">
+        {% for column in profile.dataset.column_names %}
+        <span>{{ column }}</span>
+        {% endfor %}
+      </div>
+    </aside>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  window.AI_CHAT_CONFIG = {
+    endpoint: "{{ backend_url }}/api/ai/chat"
+  };
+</script>
+{% endblock %}

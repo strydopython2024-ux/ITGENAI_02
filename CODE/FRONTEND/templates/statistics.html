@@ -1,0 +1,7 @@
+{% extends 'base.html' %}{% block content %}{% set cols=profile.column_types.numeric %}{% if not cols %}<div class="empty-card">Statistics requires at least one numeric column.</div>{% else %}<form class="card flex flex-wrap gap-4 items-end"><div><label>Numeric column</label><select name="column" class="input">{% for c in cols %}<option {{'selected' if c==result.column else ''}}>{{c}}</option>{% endfor %}</select></div><button class="btn-primary">Analyze</button></form>{% if result.success %}<div class="grid grid-cols-2 lg:grid-cols-6 gap-4 mt-6">{% for k,v in result.stats.items() %}<div class="card"><div class="text-sm text-slate-500 capitalize">{{k}}</div><div class="text-xl font-bold mt-2">{{'%.4f'|format(v) if v is number else v}}</div></div>{% endfor %}</div><div class="card mt-6"><div id="hist" class="chart"></div><div id="box" class="chart"></div></div>{% else %}<div class="alert alert-error mt-6">{{result.message}}</div>{% endif %}{% endif %}{% endblock %}{% block scripts %}{% if result.success %}<script>const vals={{result['values']|tojson}};Plotly.newPlot('hist',[{x:vals,type:'histogram'}],{title:'Distribution of {{result.column}}',margin:{t:45,l:45,r:20,b:45}});Plotly.newPlot('box',[{y:vals,type:'box',boxpoints:'outliers'}],{title:'Box Plot',margin:{t:45,l:45,r:20,b:45}});</script>{% endif %}{% endblock %}
+
+
+
+
+
+
